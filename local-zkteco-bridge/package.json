@@ -1,0 +1,15 @@
+{
+  "name": "base-agency-local-zkteco-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local ADMS bridge for ZKTeco SpeedFace V5L to Base Agency Vercel API",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "test:push": "node test-push.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

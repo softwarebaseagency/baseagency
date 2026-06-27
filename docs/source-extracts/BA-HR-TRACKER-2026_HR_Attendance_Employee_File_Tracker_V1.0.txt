@@ -1,0 +1,425 @@
+SOURCE FILE: BA-HR-TRACKER-2026_HR_Attendance_Employee_File_Tracker_V1.0.docx
+EXTRACTED: 2026-06-24T21:18:00
+
+BASE AGENCY
+HR, ATTENDANCE & EMPLOYEE FILE TRACKER
+Version 1.0
+Company Name: Base Agency
+Head Office: Empire Business Tower, Building T3 - Floor 19 - Office 4, Erbil, Kurdistan Region of Iraq
+Email: info@baseagy.com | Website: www.baseagy.com
+Phone: +964 750 075 6565 / +964 775 075 6565
+Slogan: Excellence is our promise. Quality is never optional.
+
+[TABLE]
+Document Code | Document Title | Version | Classification | Approved By
+BA-HR-TRACKER-2026 | HR, Attendance & Employee File Tracker | 1.0 | Internal / HR Confidential | Omar Abbas Abdulrahman, CEO & Founder
+[END TABLE]
+
+SECTION 1PURPOSE
+The purpose of this HR, Attendance & Employee File Tracker is to help Base Agency record, monitor, control, and manage all employee-related information, including employee files, contracts, job descriptions, attendance, fingerprint registration, leave, overtime, probation, performance evaluation, warning records, training records, asset handover, IT access, resignation, termination, and monthly HR reporting.
+This tracker shall be used as the official HR tracking and employee control system of Base Agency.
+SECTION 2HR TRACKER OBJECTIVES
+Base Agency shall use this tracker to achieve the following objectives:
+Create a complete employee database.
+Track employee file completion.
+Track employment agreements and job descriptions.
+Track attendance and fingerprint registration.
+Track lateness, absence, leave, and overtime.
+Track probation and employee confirmation.
+Track employee performance evaluation.
+Track training and development records.
+Track warning and disciplinary records.
+Track resignation, termination, and exit clearance.
+Prepare monthly HR reports for Management.
+Maintain HR confidentiality and document control.
+SECTION 3HR TRACKER SHEETS
+The HR tracker should be created in Excel with the following sheets:
+HR Dashboard
+Employee Register
+Employee File Checklist
+Employment Agreement Register
+Job Description Register
+Attendance Register
+Fingerprint Registration Register
+Lateness Register
+Absence Register
+Leave Register
+Annual Leave Balance
+Overtime Register
+Probation Review Register
+Employee Evaluation Register
+Training Register
+Warning & Disciplinary Register
+Asset Handover Register
+IT Access Register
+Resignation & Termination Register
+Exit Clearance Register
+Monthly HR Report
+HR Action Tracker
+SECTION 4HR DASHBOARD
+The HR Dashboard shall show the main HR indicators.
+
+[TABLE]
+Indicator | Value | Notes
+Total Employees |  | 
+Active Employees |  | 
+Employees on Probation |  | 
+Confirmed Employees |  | 
+New Employees This Month |  | 
+Resigned Employees |  | 
+Terminated Employees |  | 
+Employees on Leave |  | 
+Late Arrivals This Month |  | 
+Absences This Month |  | 
+Overtime Hours This Month |  | 
+Completed Employee Files |  | 
+Employee Files Missing Documents |  | 
+Evaluations Completed |  | 
+Warning Letters Issued |  | 
+Training Records Completed |  | 
+[END TABLE]
+
+SECTION 5EMPLOYEE REGISTER
+All employees must be recorded in the Employee Register.
+
+[TABLE]
+Employee Code | Employee Name | Job Title | Department / Division | Start Date | Employment Type | Status | Phone | Email | Notes
+BA-EMP-2026-001 |  |  |  |  | Full-Time / Part-Time / Temporary / Intern | Active |  |  | 
+BA-EMP-2026-002 |  |  |  |  | Full-Time / Part-Time / Temporary / Intern | Active |  |  | 
+[END TABLE]
+
+Employee status options:
+Active
+On Probation
+Confirmed
+On Leave
+Suspended
+Resigned
+Terminated
+Archived
+SECTION 6EMPLOYEE FILE CHECKLIST
+Every employee must have a complete employee file.
+
+[TABLE]
+Employee Code | Employee Name | CV | ID Copy | Personal Info Form | Agreement | Job Description | NDA | Salary Form | Emergency Contact | File Status
+BA-EMP-2026-001 |  | Yes / No | Yes / No | Yes / No | Yes / No | Yes / No | Yes / No | Yes / No | Yes / No | Complete / Missing
+BA-EMP-2026-002 |  | Yes / No | Yes / No | Yes / No | Yes / No | Yes / No | Yes / No | Yes / No | Yes / No | Complete / Missing
+[END TABLE]
+
+File status options:
+Complete
+Missing Documents
+Under Review
+Pending Signature
+Archived
+SECTION 7EMPLOYMENT AGREEMENT REGISTER
+All employment agreements must be recorded.
+
+[TABLE]
+Agreement Code | Employee Code | Employee Name | Job Title | Agreement Signed | Start Date | Probation End Date | Salary Recorded | Status | Notes
+BA-HR-AGR-2026-001 |  |  |  | Yes / No |  |  | Yes / No | Complete / Pending | 
+BA-HR-AGR-2026-002 |  |  |  | Yes / No |  |  | Yes / No | Complete / Pending | 
+[END TABLE]
+
+SECTION 8JOB DESCRIPTION REGISTER
+Every employee must have an approved job description.
+
+[TABLE]
+JD Code | Employee Code | Employee Name | Job Title | Department / Division | Reporting To | Signed By Employee | Approved By | Status | Review Date
+BA-HR-JD-2026-001 |  |  |  |  |  | Yes / No |  | Active / Pending | 
+BA-HR-JD-2026-002 |  |  |  |  |  | Yes / No |  | Active / Pending | 
+[END TABLE]
+
+SECTION 9ATTENDANCE REGISTER
+Attendance must be recorded daily.
+
+[TABLE]
+Date | Employee Code | Employee Name | Time In | Time Out | Status | Late Minutes | Overtime Hours | Notes
+ |  |  |  |  | Present / Late / Absent / Leave |  |  | 
+ |  |  |  |  | Present / Late / Absent / Leave |  |  | 
+[END TABLE]
+
+Attendance status options:
+Present
+Late
+Absent
+Annual Leave
+Sick Leave
+Emergency Leave
+Unpaid Leave
+Official Assignment
+Remote Work Approved
+Public Holiday
+Off Day
+SECTION 10FINGERPRINT REGISTRATION REGISTER
+All employees must be registered in the approved attendance system.
+
+[TABLE]
+Registration Code | Employee Code | Employee Name | Job Title | Fingerprint Registered | Face Registered | Card Issued | Registration Date | Registered By | Status
+BA-HR-FP-2026-001 |  |  |  | Yes / No | Yes / No | Yes / No |  |  | Active / Pending
+BA-HR-FP-2026-002 |  |  |  | Yes / No | Yes / No | Yes / No |  |  | Active / Pending
+[END TABLE]
+
+SECTION 11LATENESS REGISTER
+Repeated lateness must be recorded and reviewed.
+
+[TABLE]
+Lateness Code | Date | Employee Code | Employee Name | Official Start Time | Actual Arrival Time | Late Minutes | Reason | Manager Review | Status
+BA-HR-LATE-2026-001 |  |  |  | 08:00 AM |  |  |  | Accepted / Not Accepted | Open / Closed
+BA-HR-LATE-2026-002 |  |  |  | 08:00 AM |  |  |  | Accepted / Not Accepted | Open / Closed
+[END TABLE]
+
+SECTION 12ABSENCE REGISTER
+Unauthorized or informed absence must be recorded.
+
+[TABLE]
+Absence Code | Date | Employee Code | Employee Name | Absence Type | Reason | Informed Before Work | Approved By | Status | Notes
+BA-HR-ABS-2026-001 |  |  |  | Informed / Uninformed / Emergency |  | Yes / No |  | Accepted / Not Accepted | 
+BA-HR-ABS-2026-002 |  |  |  | Informed / Uninformed / Emergency |  | Yes / No |  | Accepted / Not Accepted | 
+[END TABLE]
+
+SECTION 13LEAVE REGISTER
+All leave requests must be recorded.
+
+[TABLE]
+Leave Code | Employee Code | Employee Name | Leave Type | Start Date | End Date | Total Days | Approved By | Status | Notes
+BA-HR-LEAVE-2026-001 |  |  | Annual / Sick / Emergency / Unpaid |  |  |  |  | Approved / Pending | 
+BA-HR-LEAVE-2026-002 |  |  | Annual / Sick / Emergency / Unpaid |  |  |  |  | Approved / Pending | 
+[END TABLE]
+
+Leave status options:
+Requested
+Approved
+Rejected
+Cancelled
+Completed
+Recorded
+SECTION 14ANNUAL LEAVE BALANCE
+Annual Leave Entitlement: 21 working days per year
+
+[TABLE]
+Employee Code | Employee Name | Year | Annual Entitlement | Days Used | Remaining Balance | Last Leave Date | Notes
+BA-EMP-2026-001 |  | 2026 | 21 |  |  |  | 
+BA-EMP-2026-002 |  | 2026 | 21 |  |  |  | 
+[END TABLE]
+
+SECTION 15OVERTIME REGISTER
+Approved overtime must be recorded.
+
+[TABLE]
+Overtime Code | Date | Employee Code | Employee Name | Start Time | End Time | Total Hours | Reason | Approved By | Payment Status
+BA-HR-OT-2026-001 |  |  |  |  |  |  |  |  | Paid / Pending / Not Paid
+BA-HR-OT-2026-002 |  |  |  |  |  |  |  |  | Paid / Pending / Not Paid
+[END TABLE]
+
+SECTION 16PROBATION REVIEW REGISTER
+Probation Period: 90 days
+
+[TABLE]
+Probation Code | Employee Code | Employee Name | Start Date | 30-Day Review | 60-Day Review | 90-Day Review | Decision | Status | Notes
+BA-HR-PROB-2026-001 |  |  |  | Done / Pending | Done / Pending | Done / Pending | Confirm / Extend / End | Open / Closed | 
+BA-HR-PROB-2026-002 |  |  |  | Done / Pending | Done / Pending | Done / Pending | Confirm / Extend / End | Open / Closed | 
+[END TABLE]
+
+SECTION 17EMPLOYEE EVALUATION REGISTER
+Employee performance evaluations must be recorded.
+
+[TABLE]
+Evaluation Code | Employee Code | Employee Name | Job Title | Department | Review Period | Score | Rating | Decision | Next Review Date
+BA-HR-EVAL-2026-001 |  |  |  |  |  |  | Excellent / Good / Average / Weak |  | 
+BA-HR-EVAL-2026-002 |  |  |  |  |  |  | Excellent / Good / Average / Weak |  | 
+[END TABLE]
+
+SECTION 18TRAINING REGISTER
+Employee training and development must be tracked.
+
+[TABLE]
+Training Code | Employee Code | Employee Name | Training Topic | Training Type | Date | Trainer | Status | Notes
+BA-HR-TRN-2026-001 |  |  |  | Internal / External / Online |  |  | Completed / Pending | 
+BA-HR-TRN-2026-002 |  |  |  | Internal / External / Online |  |  | Completed / Pending | 
+[END TABLE]
+
+SECTION 19WARNING & DISCIPLINARY REGISTER
+Warnings and disciplinary actions must be recorded.
+
+[TABLE]
+Case Code | Date | Employee Code | Employee Name | Issue Type | Action Taken | Issued By | Review Date | Status | Notes
+BA-HR-WARN-2026-001 |  |  |  | Lateness / Absence / Conduct / Performance | Verbal / Written / Final |  |  | Open / Closed | 
+BA-HR-WARN-2026-002 |  |  |  | Lateness / Absence / Conduct / Performance | Verbal / Written / Final |  |  | Open / Closed | 
+[END TABLE]
+
+SECTION 20ASSET HANDOVER REGISTER
+Company assets handed to employees must be tracked.
+
+[TABLE]
+Asset Handover Code | Employee Code | Employee Name | Asset Description | Serial Number | Handover Date | Condition | Returned | Return Date | Notes
+BA-HR-ASSET-2026-001 |  |  |  |  |  | Good / Used | Yes / No |  | 
+BA-HR-ASSET-2026-002 |  |  |  |  |  | Good / Used | Yes / No |  | 
+[END TABLE]
+
+SECTION 21IT ACCESS REGISTER
+IT access must be approved and controlled.
+
+[TABLE]
+IT Access Code | Employee Code | Employee Name | Email Created | System Access | Cloud Access | CRM Access | Date Created | Access Removed | Notes
+BA-HR-IT-2026-001 |  |  | Yes / No | Yes / No | Yes / No | Yes / No |  | Yes / No | 
+BA-HR-IT-2026-002 |  |  | Yes / No | Yes / No | Yes / No | Yes / No |  | Yes / No | 
+[END TABLE]
+
+SECTION 22RESIGNATION & TERMINATION REGISTER
+Employee exits must be recorded.
+
+[TABLE]
+Exit Code | Employee Code | Employee Name | Job Title | Exit Type | Notice Date | Last Working Day | Clearance Status | Final Payment Status | Notes
+BA-HR-EXIT-2026-001 |  |  |  | Resignation / Termination / End of Contract |  |  | Cleared / Pending | Paid / Pending | 
+BA-HR-EXIT-2026-002 |  |  |  | Resignation / Termination / End of Contract |  |  | Cleared / Pending | Paid / Pending | 
+[END TABLE]
+
+SECTION 23EXIT CLEARANCE REGISTER
+Before employee exit is closed, clearance must be completed.
+
+[TABLE]
+Clearance Code | Employee Code | Employee Name | Assets Returned | IT Access Removed | Handover Completed | Finance Cleared | HR File Archived | Status
+BA-HR-CLEAR-2026-001 |  |  | Yes / No | Yes / No | Yes / No | Yes / No | Yes / No | Cleared / Pending
+BA-HR-CLEAR-2026-002 |  |  | Yes / No | Yes / No | Yes / No | Yes / No | Yes / No | Cleared / Pending
+[END TABLE]
+
+SECTION 24MONTHLY HR REPORT
+Month: ___________________ Year: ____________________ Prepared By: _____________________________________ Date: ____ / ____ / ______
+Employee Summary
+
+[TABLE]
+Item | Value
+Total Employees | 
+Active Employees | 
+New Employees | 
+Employees on Probation | 
+Confirmed Employees | 
+Resigned Employees | 
+Terminated Employees | 
+[END TABLE]
+
+Attendance Summary
+
+[TABLE]
+Item | Value
+Total Late Records | 
+Total Absence Records | 
+Total Leave Days Used | 
+Total Overtime Hours | 
+[END TABLE]
+
+HR Documentation Summary
+
+[TABLE]
+Item | Value
+Completed Employee Files | 
+Files Missing Documents | 
+Employment Agreements Signed | 
+Job Descriptions Signed | 
+NDA / Confidentiality Forms Signed | 
+[END TABLE]
+
+Performance Summary
+
+[TABLE]
+Item | Value
+Evaluations Completed | 
+Employees Requiring Improvement | 
+Warnings Issued | 
+Training Needs Identified | 
+[END TABLE]
+
+HR Issues / Risks:__________________________________________________________________________________________________
+Required Management Action:1. ______________________________________________2. ______________________________________________3. ______________________________________________
+Prepared By: _____________________________________ Reviewed By: _____________________________________ Approved By: _____________________________________
+SECTION 25HR ACTION TRACKER
+
+[TABLE]
+Action Code | HR Issue / Action | Responsible Person | Deadline | Priority | Status | Notes
+BA-HR-ACT-2026-001 |  |  |  | High / Medium / Low | Open / In Progress / Closed | 
+BA-HR-ACT-2026-002 |  |  |  | High / Medium / Low | Open / In Progress / Closed | 
+[END TABLE]
+
+SECTION 26DAILY HR ROUTINE
+Daily HR tasks:
+Check attendance.
+Check lateness and absence.
+Update attendance register.
+Record leave requests.
+Review employee issues.
+Update employee files where required.
+Report urgent HR issues to Management.
+SECTION 27WEEKLY HR ROUTINE
+Weekly HR tasks:
+Review attendance summary.
+Review leave requests.
+Review lateness and absence.
+Review employee file completion.
+Review probation employees.
+Review HR action tracker.
+Report key issues to Management.
+SECTION 28MONTHLY HR ROUTINE
+Monthly HR tasks:
+Review employee register.
+Review attendance records.
+Review leave balances.
+Review overtime records.
+Review performance evaluations.
+Review warning records.
+Review training records.
+Prepare monthly HR report.
+Submit HR report to Management.
+SECTION 29HR CONTROL RULES
+The following rules are mandatory:
+Every employee must have an employee code.
+Every employee must have an employee file.
+Every employee must have a job description.
+Every employee must sign required HR documents.
+Attendance must be recorded daily.
+Leave must be approved before absence unless emergency.
+Annual leave balance must be updated.
+Overtime must be approved before payment.
+Probation must be reviewed within 90 days.
+Employee evaluations must be documented.
+Warnings must be recorded in the employee file.
+HR records must remain confidential.
+Monthly HR report must be prepared.
+The HR tracker must be updated regularly.
+SECTION 30RESPONSIBILITIES
+CEO & Founder
+Final approval of major HR decisions.
+Reviewing monthly HR reports.
+Approving serious disciplinary or termination matters.
+Protecting company discipline and professional culture.
+HR / Office Administration
+Maintaining employee files.
+Updating HR tracker.
+Recording attendance, leave, lateness, and absence.
+Preparing monthly HR reports.
+Maintaining HR confidentiality.
+Department and Division Managers
+Reviewing employee performance.
+Approving or reviewing leave requests.
+Reporting attendance or conduct issues.
+Supporting probation and evaluation reviews.
+Employees
+Providing required HR documents.
+Following attendance rules.
+Requesting leave properly.
+Completing assigned duties.
+Maintaining professional conduct.
+SECTION 31FILE STORAGE
+This tracker shall be saved in:
+BASE AGENCY02 - Human Resources (HR)14 - HR Reports
+Recommended file name:
+BA-HR-TRACKER-2026 - HR, Attendance & Employee File Tracker - Version 1.0
+Additional copies may be saved in:
+BASE AGENCY02 - Human Resources (HR)02 - Employee Files06 - Attendance & Fingerprint07 - Leave Requests
+SECTION 32FINAL DECLARATION
+This HR, Attendance & Employee File Tracker is approved as the official HR tracking and employee control system of Base Agency.
+It defines employee register, employee file checklist, employment agreement register, job description register, attendance register, fingerprint registration, lateness, absence, leave, annual leave balance, overtime, probation, evaluation, training, warning, assets, IT access, resignation, termination, exit clearance, monthly HR reporting, responsibilities, and HR control rules.
+All HR representatives, managers, employees, departments, divisions, and authorized persons must use this tracker to control employee records, attendance, leave, performance, discipline, and HR reporting.
+Approved By
+Omar Abbas AbdulrahmanCEO & FounderBase Agency
+Signature: ___________________________Company Stamp: ______________________Date: _______________________________

@@ -1,0 +1,343 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --surface-page: #fafafa;
+  --surface-card: #ffffff;
+  --surface-muted: #fafafa;
+  --surface-header: rgba(255, 255, 255, 0.92);
+  --text-primary: #0d2445;
+  --text-body: #000000;
+  --text-muted: #a0a0a0;
+  --border-default: #dbdbdb;
+  --accent: #ffcd05;
+  --drawer-shift: 16px;
+}
+
+html.dark {
+  color-scheme: dark;
+  --surface-page: #0d2445;
+  --surface-card: #132d52;
+  --surface-muted: #102741;
+  --surface-header: rgba(13, 36, 69, 0.92);
+  --text-primary: #ffffff;
+  --text-body: #ffffff;
+  --text-muted: #dbdbdb;
+  --border-default: rgba(255, 255, 255, 0.12);
+}
+
+html[dir="rtl"] {
+  --drawer-shift: -16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  min-height: 100dvh;
+}
+
+html {
+  scrollbar-gutter: stable;
+  overflow-x: hidden !important;
+  overflow-y: scroll !important;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+  width: 100%;
+  max-width: 100%;
+  background: var(--surface-page);
+  color: var(--text-body);
+  font-family:
+    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  transition: background-color 200ms ease, color 200ms ease;
+}
+
+html[dir="rtl"] body {
+  font-family: Tahoma, "Segoe UI", Arial, sans-serif;
+}
+
+#__next,
+#root,
+.app-root {
+  min-height: 100dvh;
+}
+
+main,
+.app-main,
+.page-content {
+  min-height: 100dvh;
+  overflow: visible !important;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #ffcd05 #0d2445;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0d2445;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ffcd05;
+  border: 2px solid #0d2445;
+  border-radius: 999px;
+}
+
+h1 {
+  font-size: clamp(1.875rem, 2.5vw, 3rem);
+}
+
+h2 {
+  font-size: clamp(1rem, 1.25vw, 1.25rem);
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+.ltr-num {
+  direction: ltr;
+  unicode-bidi: isolate;
+  display: inline-block;
+}
+
+/* ============================================================
+   BASE.AGY CUSTOM CURSOR
+   - pointer-events: none ensures it NEVER blocks clicks or scroll
+   - starts off-screen (opacity 0) until first pointermove
+   - position/size are driven entirely by the RAF loop in JS
+   ============================================================ */
+.brand-cursor {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+  background: #ffcd05;
+  box-shadow:
+    0 0 0 1.5px rgba(13, 36, 69, 0.12),
+    0 4px 16px rgba(255, 205, 5, 0.28);
+  /* hidden until first pointermove – JS sets opacity to 0.9 */
+  opacity: 0;
+  pointer-events: none !important;
+  /* parked off-screen so it never flashes at (0,0) on mount */
+  transform: translate3d(-9999px, -9999px, 0) translate(-50%, -50%);
+  will-change: transform, width, height, opacity;
+  z-index: 999999;
+  /* No CSS transition – JS lerp provides the smooth animation */
+}
+
+/* Hide native cursor only when the custom cursor is running */
+.brand-cursor-active,
+.brand-cursor-active * {
+  cursor: none !important;
+}
+
+/* Restore native cursor for users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .brand-cursor {
+    display: none !important;
+  }
+
+  .brand-cursor-active,
+  .brand-cursor-active * {
+    cursor: auto !important;
+  }
+}
+
+::selection {
+  background: #ffcd05;
+  color: #0d2445;
+}
+
+@layer components {
+  /* ============================================================
+     CURSOR HOVER EFFECTS
+     Rules are gated on .brand-cursor-active so they only fire
+     when the custom cursor is actually running.
+
+     IMPORTANT: We deliberately avoid overriding `transform`
+     here so Tailwind's hover:‑translate‑y‑0.5 on BrandButton /
+     Card keeps working undisturbed.  All visual feedback is
+     done with outline, box-shadow, and border-color only.
+     ============================================================ */
+
+  /* Buttons and button-like elements – yellow outline ring */
+  .brand-cursor-active button.brand-cursor-target,
+  .brand-cursor-active [role="button"].brand-cursor-target {
+    outline: 2px solid rgba(255, 205, 5, 0.55);
+    outline-offset: 2px;
+  }
+
+  /* Plain links – yellow text decoration */
+  .brand-cursor-active a.brand-cursor-target:not(nav a) {
+    text-decoration-color: #ffcd05;
+    text-decoration-line: underline;
+  }
+
+  /* Sidebar nav links – subtle highlight */
+  .brand-cursor-active nav a.brand-cursor-target {
+    background: rgba(255, 255, 255, 0.1);
+    outline: none;
+  }
+
+  /* Cards – subtle yellow border glow */
+  .brand-cursor-active [data-brand-card].brand-cursor-target {
+    box-shadow:
+      0 0 0 1.5px rgba(255, 205, 5, 0.38),
+      0 14px 36px rgba(255, 205, 5, 0.1) !important;
+  }
+
+  /* Inputs, selects, textareas – yellow focus ring */
+  .brand-cursor-active input.brand-cursor-target,
+  .brand-cursor-active input:focus,
+  .brand-cursor-active select.brand-cursor-target,
+  .brand-cursor-active select:focus,
+  .brand-cursor-active textarea.brand-cursor-target,
+  .brand-cursor-active textarea:focus {
+    border-color: #ffcd05 !important;
+    box-shadow: 0 0 0 3px rgba(255, 205, 5, 0.2) !important;
+    outline: none !important;
+  }
+
+  /* Tabs – yellow underline */
+  .brand-cursor-active [role="tab"].brand-cursor-target,
+  .brand-cursor-active [data-brand-tab].brand-cursor-target {
+    box-shadow: inset 0 -2.5px 0 #ffcd05 !important;
+  }
+
+  /* Table rows – subtle yellow tint + left accent on first cell.
+     box-shadow on <tr> is unreliable cross-browser, so we apply
+     the inset stripe to the first <td>/<th> instead. */
+  .brand-cursor-active tr.brand-cursor-target {
+    background-color: rgba(255, 205, 5, 0.05) !important;
+  }
+
+  .brand-cursor-active tr.brand-cursor-target td:first-child,
+  .brand-cursor-active tr.brand-cursor-target th:first-child {
+    box-shadow: inset 3px 0 0 #ffcd05;
+  }
+
+  /* RTL: flip accent to the inline-end side */
+  html[dir="rtl"] .brand-cursor-active tr.brand-cursor-target td:first-child,
+  html[dir="rtl"] .brand-cursor-active tr.brand-cursor-target th:first-child {
+    box-shadow: none;
+  }
+
+  html[dir="rtl"] .brand-cursor-active tr.brand-cursor-target td:last-child,
+  html[dir="rtl"] .brand-cursor-active tr.brand-cursor-target th:last-child {
+    box-shadow: inset -3px 0 0 #ffcd05;
+  }
+
+  /* Dropdown triggers */
+  .brand-cursor-active [data-dropdown-trigger].brand-cursor-target {
+    outline: 1.5px solid rgba(255, 205, 5, 0.45);
+    outline-offset: 1px;
+  }
+
+  /* ============================================================
+     SCROLL REVEAL
+     Elements with [data-scroll-reveal] are invisible until they
+     enter the viewport, handled by ScrollAnimationProvider.
+     The base rule keeps them visible before JS initialises.
+     ============================================================ */
+  [data-scroll-reveal] {
+    opacity: 1;
+    transform: none;
+    visibility: visible;
+  }
+
+  .scroll-reveal-ready [data-scroll-reveal]:not(.is-revealed) {
+    opacity: 0.001;
+    transform: translateY(12px);
+    visibility: visible;
+    transition:
+      opacity 420ms ease,
+      transform 420ms ease;
+  }
+
+  .scroll-reveal-ready [data-scroll-reveal].is-revealed {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@layer utilities {
+  .brand-surface {
+    background-image:
+      radial-gradient(circle at 8% 12%, rgba(255, 205, 5, 0.08) 0 7px, transparent 8px),
+      linear-gradient(135deg, rgba(13, 36, 69, 0.04) 0 1px, transparent 1px);
+    background-size: 120px 120px, 22px 22px;
+  }
+
+  html.dark .brand-surface {
+    background-image:
+      radial-gradient(circle at 8% 12%, rgba(255, 205, 5, 0.06) 0 7px, transparent 8px),
+      linear-gradient(135deg, rgba(255, 255, 255, 0.04) 0 1px, transparent 1px);
+  }
+
+  .page-motion {
+    animation: fade-up 420ms ease-out both;
+  }
+
+  .reveal-card {
+    animation: fade-up 480ms ease-out both;
+  }
+
+  .focus-brand {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-yellow focus-visible:ring-offset-2 focus-visible:ring-offset-surface-page;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-motion,
+  .reveal-card {
+    animation: none;
+  }
+}
+
+@media print {
+  aside,
+  button,
+  nav,
+  [data-print-hidden="true"] {
+    display: none !important;
+  }
+
+  body {
+    background: #ffffff !important;
+    color: #111827 !important;
+  }
+
+  main {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .print-report {
+    display: block !important;
+  }
+}

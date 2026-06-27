@@ -1,0 +1,22 @@
+{
+  "name": "base-agency-zkteco-sync-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Windows LAN sync agent for ZKTeco attendance devices and the Base Agency CRM.",
+  "scripts": {
+    "test:device": "node src/test-device.js",
+    "test:api": "node src/test-api.js",
+    "sync": "node src/sync-now.js",
+    "sync:debug": "node src/sync-now.js --debug",
+    "start": "node src/agent.js",
+    "ui": "node src/ui-server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "zklib-js": "^1.0.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

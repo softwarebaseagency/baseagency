@@ -1,0 +1,344 @@
+SOURCE FILE: BA-FIN-TRACKER-2026_Finance_Income_Expense_Tracker_V1.0.docx
+EXTRACTED: 2026-06-24T21:18:00
+
+BASE AGENCY
+FINANCE, INCOME & EXPENSE TRACKER
+Version 1.0
+
+[TABLE]
+Field | Information
+Company Name | Base Agency
+Head Office | Empire Business Tower, Building T3 - Floor 19 - Office 4, Erbil, Kurdistan Region of Iraq
+Email | info@baseagy.com
+Website | www.baseagy.com
+Phone | +964 750 075 6565 / +964 775 075 6565
+Slogan | Excellence is our promise. Quality is never optional.
+[END TABLE]
+
+DOCUMENT CONTROL
+
+[TABLE]
+Document Code | Document Title | Version | Classification | Approved By
+BA-FIN-TRACKER-2026 | Finance, Income & Expense Tracker | 1.0 | Internal / Finance Confidential | Omar Abbas Abdulrahman, CEO & Founder
+[END TABLE]
+
+SECTION 1 - PURPOSE
+The purpose of this Finance, Income & Expense Tracker is to help Base Agency record, monitor, review, and control all company financial activities, including income, expenses, invoices, receipts, petty cash, salaries, office rent, supplier payments, client payments, profit, and monthly finance reporting.
+This tracker shall be used to support daily finance control and monthly management review.
+SECTION 2 - FINANCE OBJECTIVES
+1. Record all company income.
+2. Record all company expenses.
+3. Track client payments.
+4. Track unpaid invoices.
+5. Track supplier payments.
+6. Control petty cash.
+7. Monitor monthly salary costs.
+8. Monitor office rent and fixed costs.
+9. Calculate monthly profit and loss.
+10. Prepare monthly finance reports for Management.
+SECTION 3 - FINANCE TRACKER SHEETS
+1. Finance Dashboard
+2. Income Register
+3. Expense Register
+4. Invoice Register
+5. Receipt Register
+6. Payment Request Register
+7. Petty Cash Register
+8. Salary Register
+9. Supplier Payment Register
+10. Fixed Monthly Costs
+11. Profit & Loss Summary
+12. Cash Flow Summary
+13. Monthly Finance Report
+14. Finance Action Tracker
+SECTION 4 - FINANCE DASHBOARD
+The Finance Dashboard shall show the main financial indicators.
+
+[TABLE]
+Indicator | Amount | Notes
+Total Monthly Income |  | 
+Total Monthly Expenses |  | 
+Net Profit / Loss |  | 
+Cash Balance |  | 
+Pending Client Payments |  | 
+Pending Supplier Payments |  | 
+Salary Cost |  | 
+Office Rent |  | 
+Petty Cash Balance |  | 
+Total Invoices Issued |  | 
+Total Receipts Issued |  | 
+[END TABLE]
+
+SECTION 5 - INCOME REGISTER
+All income received by Base Agency must be recorded.
+
+[TABLE]
+Income Code | Date | Client Name | Project / Service | Invoice No. | Receipt No. | Amount | Currency | Payment Method | Received By | Notes
+BA-INC-2026-001 |  |  |  |  |  |  | IQD / USD | Cash / Bank / Other |  | 
+BA-INC-2026-002 |  |  |  |  |  |  | IQD / USD | Cash / Bank / Other |  | 
+BA-INC-2026-003 |  |  |  |  |  |  | IQD / USD | Cash / Bank / Other |  | 
+[END TABLE]
+
+Payment Method Options
+• Cash
+• Bank Transfer
+• Card Payment
+• Online Payment
+• Cheque
+• Other
+SECTION 6 - EXPENSE REGISTER
+All expenses must be recorded with supporting documents where possible.
+
+[TABLE]
+Expense Code | Date | Expense Category | Description | Paid To | Amount | Currency | Payment Method | Receipt Attached | Approved By | Notes
+BA-EXPEN-2026-001 |  |  |  |  |  | IQD / USD | Cash / Bank / Other | Yes / No |  | 
+BA-EXPEN-2026-002 |  |  |  |  |  | IQD / USD | Cash / Bank / Other | Yes / No |  | 
+BA-EXPEN-2026-003 |  |  |  |  |  | IQD / USD | Cash / Bank / Other | Yes / No |  | 
+[END TABLE]
+
+Expense Categories
+1. Office Rent
+2. Salaries
+3. Utilities
+4. Internet
+5. Office Supplies
+6. Transportation
+7. Marketing
+8. Software / Subscriptions
+9. Equipment
+10. Maintenance
+11. Project Cost
+12. Supplier Payment
+13. Government / Legal Fees
+14. Petty Cash
+15. Other
+SECTION 7 - INVOICE REGISTER
+Every invoice issued to a client must be recorded.
+
+[TABLE]
+Invoice No. | Date Issued | Client Name | Project / Service | Invoice Amount | Currency | Due Date | Payment Status | Paid Amount | Remaining Amount | Notes
+BA-INV-2026-001 |  |  |  |  | IQD / USD |  | Unpaid / Partial / Paid |  |  | 
+BA-INV-2026-002 |  |  |  |  | IQD / USD |  | Unpaid / Partial / Paid |  |  | 
+[END TABLE]
+
+Payment Status Options
+• Unpaid
+• Partially Paid
+• Paid
+• Overdue
+• Cancelled
+SECTION 8 - RECEIPT REGISTER
+Every payment received must have a receipt record.
+
+[TABLE]
+Receipt No. | Date | Client Name | Invoice No. | Amount Received | Currency | Payment Method | Received By | Notes
+BA-RCT-2026-001 |  |  |  |  | IQD / USD | Cash / Bank / Other |  | 
+BA-RCT-2026-002 |  |  |  |  | IQD / USD | Cash / Bank / Other |  | 
+[END TABLE]
+
+SECTION 9 - PAYMENT REQUEST REGISTER
+All payment requests must be recorded before payment where required.
+
+[TABLE]
+Payment Request No. | Date | Requested By | Purpose | Amount | Currency | Supporting Document | Status | Approved By | Payment Date
+BA-FIN-PRF-2026-001 |  |  |  |  | IQD / USD | Invoice / Receipt / Quotation | Pending / Approved / Rejected / Paid |  | 
+BA-FIN-PRF-2026-002 |  |  |  |  | IQD / USD | Invoice / Receipt / Quotation | Pending / Approved / Rejected / Paid |  | 
+[END TABLE]
+
+SECTION 10 - PETTY CASH REGISTER
+Petty cash must be controlled carefully.
+
+[TABLE]
+Petty Cash Code | Date | Description | Cash In | Cash Out | Balance | Receipt Attached | Approved By | Notes
+BA-PC-2026-001 |  | Opening Balance |  |  |  | Yes / No |  | 
+BA-PC-2026-002 |  |  |  |  |  | Yes / No |  | 
+[END TABLE]
+
+Petty Cash Rules
+1. Every cash-out must be recorded.
+2. Receipts must be attached where possible.
+3. Petty cash balance must be checked weekly.
+4. Missing cash must be reported to Management.
+5. Petty cash must not be used for personal expenses.
+SECTION 11 - SALARY REGISTER
+Salary records must remain confidential.
+
+[TABLE]
+Employee Code | Employee Name | Job Title | Month | Basic Salary | Allowance | Deduction | Net Salary | Payment Date | Payment Status | Notes
+BA-EMP-2026-001 |  |  |  |  |  |  |  |  | Paid / Pending | 
+BA-EMP-2026-002 |  |  |  |  |  |  |  |  | Paid / Pending | 
+[END TABLE]
+
+Currency: IQD
+SECTION 12 - SUPPLIER PAYMENT REGISTER
+All supplier payments must be recorded.
+
+[TABLE]
+Supplier Payment Code | Date | Supplier Name | Service / Item | Invoice No. | Amount | Currency | Payment Status | Paid By | Notes
+BA-SUP-PAY-2026-001 |  |  |  |  |  | IQD / USD | Pending / Paid / Partial |  | 
+BA-SUP-PAY-2026-002 |  |  |  |  |  | IQD / USD | Pending / Paid / Partial |  | 
+[END TABLE]
+
+SECTION 13 - FIXED MONTHLY COSTS
+Base Agency shall track fixed monthly costs.
+
+[TABLE]
+Cost Item | Monthly Amount | Currency | Due Date | Payment Status | Notes
+Office Rent |  | USD / IQD |  | Paid / Pending | 
+Salaries |  | IQD |  | Paid / Pending | 
+Internet |  | IQD |  | Paid / Pending | 
+Utilities |  | IQD |  | Paid / Pending | 
+Software Subscriptions |  | USD / IQD |  | Paid / Pending | 
+Other Fixed Cost |  | IQD |  | Paid / Pending | 
+[END TABLE]
+
+SECTION 14 - PROFIT & LOSS SUMMARY
+At the end of every month, Base Agency shall prepare a profit and loss summary.
+
+[TABLE]
+Item | Amount
+Total Income | 
+Total Project Costs | 
+Gross Profit | 
+Salaries | 
+Office Rent | 
+Utilities | 
+Marketing Expenses | 
+Software / Subscriptions | 
+Other Expenses | 
+Total Expenses | 
+Net Profit / Loss | 
+[END TABLE]
+
+Formula: Net Profit / Loss = Total Income - Total Expenses
+SECTION 15 - CASH FLOW SUMMARY
+The cash flow summary shall show money entering and leaving the company.
+
+[TABLE]
+Month | Opening Balance | Cash In | Cash Out | Closing Balance | Notes
+January |  |  |  |  | 
+February |  |  |  |  | 
+March |  |  |  |  | 
+April |  |  |  |  | 
+May |  |  |  |  | 
+June |  |  |  |  | 
+July |  |  |  |  | 
+August |  |  |  |  | 
+September |  |  |  |  | 
+October |  |  |  |  | 
+November |  |  |  |  | 
+December |  |  |  |  | 
+[END TABLE]
+
+SECTION 16 - MONTHLY FINANCE REPORT
+
+[TABLE]
+Report Field | Information
+Month | 
+Year | 
+Prepared By | 
+Date | ____ / ____ / ______
+Total Income | 
+Total Expenses | 
+Net Profit / Loss | 
+Pending Client Payments | 
+Pending Supplier Payments | 
+Petty Cash Balance | 
+Cash Balance | 
+[END TABLE]
+
+Main Income Sources
+1. ______________________________________________
+2. ______________________________________________
+3. ______________________________________________
+Main Expenses
+1. ______________________________________________
+2. ______________________________________________
+3. ______________________________________________
+Finance Issues
+_________________________________________________
+_________________________________________________
+Required Management Action
+1. ______________________________________________
+2. ______________________________________________
+3. ______________________________________________
+Prepared By: _____________________________________ Reviewed By: _____________________________________ Approved By: _____________________________________
+SECTION 17 - FINANCE ACTION TRACKER
+
+[TABLE]
+Action Code | Issue / Action | Responsible Person | Deadline | Priority | Status | Notes
+BA-FIN-ACT-2026-001 |  |  |  | High / Medium / Low | Open / In Progress / Closed | 
+BA-FIN-ACT-2026-002 |  |  |  | High / Medium / Low | Open / In Progress / Closed | 
+[END TABLE]
+
+SECTION 18 - DAILY FINANCE ROUTINE
+1. Record all income received.
+2. Record all expenses paid.
+3. Save receipts and invoices.
+4. Update petty cash balance.
+5. Update payment status.
+6. Notify Management about urgent finance issues.
+SECTION 19 - WEEKLY FINANCE ROUTINE
+1. Review income register.
+2. Review expense register.
+3. Review unpaid invoices.
+4. Review pending payments.
+5. Review petty cash.
+6. Review supplier payments.
+7. Update finance dashboard.
+8. Report important issues to Management.
+SECTION 20 - MONTHLY FINANCE ROUTINE
+1. Close income register for the month.
+2. Close expense register for the month.
+3. Review salary payments.
+4. Review fixed costs.
+5. Prepare profit and loss summary.
+6. Prepare cash flow summary.
+7. Prepare monthly finance report.
+8. Submit finance report to Management.
+SECTION 21 - FINANCE CONTROL RULES
+1. Every income must be recorded.
+2. Every expense must be recorded.
+3. Every invoice must have a number.
+4. Every receipt must have a number.
+5. Payment requests must be approved before payment where required.
+6. Petty cash must be reviewed weekly.
+7. Salary records must remain confidential.
+8. Receipts and invoices must be saved.
+9. Monthly finance report must be prepared.
+10. Finance tracker must be updated regularly.
+SECTION 22 - RESPONSIBILITIES
+CEO & Founder
+• Final approval of major payments.
+• Reviewing monthly finance reports.
+• Approving major finance decisions.
+• Reviewing company profit and financial direction.
+Finance / Office Admin
+• Recording income.
+• Recording expenses.
+• Preparing invoices and receipts.
+• Updating petty cash.
+• Preparing monthly finance reports.
+• Maintaining finance confidentiality.
+Sales / Client Relations
+• Informing Finance about approved clients.
+• Informing Finance when invoices are required.
+• Following up on client payments where assigned.
+Operations
+• Informing Finance about project costs.
+• Supporting cost tracking for active projects.
+• Confirming project delivery status where payment depends on delivery.
+SECTION 23 - FILE STORAGE
+This tracker shall be saved in:
+BASE AGENCY04 - Finance06 - Finance Reports
+Recommended file name:
+BA-FIN-TRACKER-2026 - Finance, Income & Expense Tracker - Version 1.0
+Additional copy may be saved in:
+BASE AGENCY04 - Finance02 - Accounting Records03 - Invoices & Receipts
+SECTION 24 - FINAL DECLARATION
+This Finance, Income & Expense Tracker is approved as the official finance tracking and reporting system of Base Agency.
+It defines income records, expense records, invoice tracking, receipt tracking, payment requests, petty cash, salary records, supplier payments, fixed monthly costs, profit and loss summary, cash flow summary, monthly finance reports, finance action tracking, responsibilities, and finance control rules.
+All finance representatives, managers, sales staff, operations staff, and authorized persons must use this tracker to control company income, expenses, payments, and monthly finance reporting.
+APPROVED BY
+Omar Abbas AbdulrahmanCEO & FounderBase Agency
+Signature: ___________________________ Company Stamp: ______________________ Date: _______________________________

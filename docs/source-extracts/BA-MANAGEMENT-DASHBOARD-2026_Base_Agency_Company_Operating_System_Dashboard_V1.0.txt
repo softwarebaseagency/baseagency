@@ -1,0 +1,374 @@
+SOURCE FILE: BA-MANAGEMENT-DASHBOARD-2026_Base_Agency_Company_Operating_System_Dashboard_V1.0.docx
+EXTRACTED: 2026-06-24T21:18:00
+
+BASE AGENCY
+COMPANY OPERATING SYSTEM DASHBOARD
+Version 1.0
+Company Name: Base Agency
+Head Office: Empire Business Tower, Building T3 - Floor 19 - Office 4, Erbil, Kurdistan Region of Iraq
+Email: info@baseagy.com
+Website: www.baseagy.com
+Phone: +964 750 075 6565 / +964 775 075 6565
+Slogan: Excellence is our promise. Quality is never optional.
+DOCUMENT CONTROL
+
+[TABLE]
+Field | Details
+Document Code | BA-MANAGEMENT-DASHBOARD-2026
+Document Title | Base Agency Company Operating System Dashboard
+Version | 1.0
+Classification | Internal / Management Confidential
+Prepared For | CEO, COO & Executive Management
+Approved By | Omar Abbas Abdulrahman, CEO & Founder
+[END TABLE]
+
+SECTION 1 - PURPOSE
+The purpose of this Company Operating System Dashboard is to provide Base Agency with one central management system to monitor the full company.
+This dashboard allows Management to review sales, finance, HR, operations, client experience, quality, risks, document control, approvals, and weekly action items in one structured system.
+The dashboard is designed to help Base Agency operate professionally, make better decisions, identify problems early, improve performance, and manage the company with discipline and accountability.
+SECTION 2 - SYSTEM OBJECTIVE
+The objective of this dashboard is to answer the following management questions:
+1. How many clients are we contacting?
+2. How many proposals and quotations are active?
+3. How much income did we receive?
+4. How much did we spend?
+5. Are we profitable or losing money?
+6. Which projects are active?
+7. Which projects are delayed?
+8. Are employees attending on time?
+9. Are employee files complete?
+10. Are clients satisfied?
+11. What problems need CEO / Management decision?
+12. What actions must be completed this week?
+SECTION 3 - DASHBOARD STRUCTURE
+The Company Operating System Dashboard should be created in Excel with the following sheets:
+1. CEO Dashboard
+2. Sales Dashboard
+3. Finance Dashboard
+4. HR Dashboard
+5. Operations Dashboard
+6. Client Experience Dashboard
+7. Quality & Risk Dashboard
+8. Document Control Dashboard
+9. Weekly Management Meeting
+10. Monthly Management Report
+11. Decision & Approval Register
+12. Management Action Tracker
+SECTION 4 - CEO DASHBOARD
+The CEO Dashboard shall show the most important company indicators.
+
+[TABLE]
+Indicator | Current Value | Target | Status | Notes
+Total Leads |  |  | Green / Yellow / Red | 
+Active Opportunities |  |  | Green / Yellow / Red | 
+Proposals Sent |  |  | Green / Yellow / Red | 
+Deals Closed |  |  | Green / Yellow / Red | 
+Monthly Income |  |  | Green / Yellow / Red | 
+Monthly Expenses |  |  | Green / Yellow / Red | 
+Net Profit / Loss |  |  | Green / Yellow / Red | 
+Active Projects |  |  | Green / Yellow / Red | 
+Delayed Projects |  |  | Green / Yellow / Red | 
+Active Employees |  |  | Green / Yellow / Red | 
+Attendance Rate |  |  | Green / Yellow / Red | 
+Client Satisfaction |  |  | Green / Yellow / Red | 
+Open Risks / Issues |  |  | Green / Yellow / Red | 
+Pending CEO Decisions |  |  | Green / Yellow / Red | 
+[END TABLE]
+
+SECTION 5 - STATUS COLOR SYSTEM
+The dashboard shall use a simple color status system:
+
+[TABLE]
+Color | Meaning
+Green | Good / On Track
+Yellow | Needs Attention
+Red | Critical / Immediate Action Required
+[END TABLE]
+
+Green means target achieved or no major issue. Yellow means delay, weakness, missing data, or medium issue. Red means serious problem, urgent decision, financial loss, client risk, or major delay.
+SECTION 6 - SALES DASHBOARD
+
+[TABLE]
+Sales Indicator | Current Value | Target | Status | Notes
+New Leads This Month |  |  |  | 
+Clients Contacted |  |  |  | 
+Follow-Ups Completed |  |  |  | 
+Meetings Scheduled |  |  |  | 
+Meetings Completed |  |  |  | 
+Proposals Sent |  |  |  | 
+Quotations Sent |  |  |  | 
+Deals Won |  |  |  | 
+Deals Lost |  |  |  | 
+Total Pipeline Value |  |  |  | 
+Closed Sales Value |  |  |  | 
+[END TABLE]
+
+SECTION 7 - FINANCE DASHBOARD
+
+[TABLE]
+Finance Indicator | Current Amount | Target / Budget | Status | Notes
+Total Income |  |  |  | 
+Total Expenses |  |  |  | 
+Net Profit / Loss |  |  |  | 
+Cash Balance |  |  |  | 
+Pending Client Payments |  |  |  | 
+Pending Supplier Payments |  |  |  | 
+Salary Cost |  |  |  | 
+Office Rent |  |  |  | 
+Petty Cash Balance |  |  |  | 
+Invoices Issued |  |  |  | 
+Receipts Issued |  |  |  | 
+[END TABLE]
+
+SECTION 8 - HR DASHBOARD
+
+[TABLE]
+HR Indicator | Current Value | Target | Status | Notes
+Total Employees |  |  |  | 
+Active Employees |  |  |  | 
+Employees on Probation |  |  |  | 
+Attendance Rate |  |  |  | 
+Late Arrivals This Month |  |  |  | 
+Absences This Month |  |  |  | 
+Leave Requests |  |  |  | 
+Overtime Hours |  |  |  | 
+Completed Employee Files |  |  |  | 
+Missing Employee Documents |  |  |  | 
+Performance Evaluations Completed |  |  |  | 
+Warning Letters Issued |  |  |  | 
+[END TABLE]
+
+SECTION 9 - OPERATIONS DASHBOARD
+
+[TABLE]
+Operations Indicator | Current Value | Target | Status | Notes
+Active Projects |  |  |  | 
+Projects Not Started |  |  |  | 
+Projects In Progress |  |  |  | 
+Projects Waiting Client |  |  |  | 
+Delayed Projects |  |  |  | 
+Completed Projects |  |  |  | 
+Closed Projects |  |  |  | 
+Active Tasks |  |  |  | 
+Completed Tasks |  |  |  | 
+Delayed Tasks |  |  |  | 
+Quality Checks Completed |  |  |  | 
+Client Approvals Pending |  |  |  | 
+[END TABLE]
+
+SECTION 10 - CLIENT EXPERIENCE DASHBOARD
+
+[TABLE]
+Client Indicator | Current Value | Target | Status | Notes
+Active Clients |  |  |  | 
+New Clients This Month |  |  |  | 
+Repeat Clients |  |  |  | 
+Client Feedback Received |  |  |  | 
+Positive Feedback |  |  |  | 
+Complaints Received |  |  |  | 
+Complaints Resolved |  |  |  | 
+Client Satisfaction Rate |  |  |  | 
+Clients Requiring Follow-Up |  |  |  | 
+[END TABLE]
+
+SECTION 11 - QUALITY & RISK DASHBOARD
+
+[TABLE]
+Quality / Risk Indicator | Current Value | Target | Status | Notes
+Quality Checks Completed |  |  |  | 
+Rework Required |  |  |  | 
+Open Issues |  |  |  | 
+Critical Issues |  |  |  | 
+Delayed Actions |  |  |  | 
+Risks Identified |  |  |  | 
+Risks Resolved |  |  |  | 
+Corrective Actions Open |  |  |  | 
+Corrective Actions Closed |  |  |  | 
+[END TABLE]
+
+SECTION 12 - DOCUMENT CONTROL DASHBOARD
+
+[TABLE]
+Document Indicator | Current Value | Target | Status | Notes
+Total Main Folders | 24 | 24 | Green / Yellow / Red | 
+Completed Folders | 24 | 24 | Green / Yellow / Red | 
+Active Controlled Documents |  |  |  | 
+Documents Under Review |  |  |  | 
+Documents Needing Update |  |  |  | 
+Archived Documents |  |  |  | 
+Missing Documents |  | 0 |  | 
+Templates Active |  |  |  | 
+[END TABLE]
+
+SECTION 13 - WEEKLY MANAGEMENT MEETING TEMPLATE
+Base Agency shall hold one weekly management meeting.
+Recommended Day: Thursday
+Recommended Time: 04:00 PM
+Chairperson: CEO / COO
+Meeting Agenda
+1. Sales performance review.
+2. Finance status review.
+3. HR and attendance review.
+4. Operations and project review.
+5. Client feedback and complaints.
+6. Quality and risk review.
+7. Pending approvals.
+8. Problems requiring decision.
+9. Next week priorities.
+10. Action tracker review.
+SECTION 14 - WEEKLY MANAGEMENT MEETING REGISTER
+
+[TABLE]
+Meeting Code | Date | Chairperson | Prepared By | Key Decisions | Pending Actions | Status
+BA-MGT-MTG-2026-001 |  |  |  |  |  | Scheduled / Completed
+BA-MGT-MTG-2026-002 |  |  |  |  |  | Scheduled / Completed
+[END TABLE]
+
+SECTION 15 - DECISION & APPROVAL REGISTER
+All important management decisions must be recorded.
+
+[TABLE]
+Decision Code | Date | Decision Title | Department | Decision Details | Approved By | Priority | Status | Notes
+BA-DEC-2026-001 |  |  |  |  |  | High / Medium / Low | Open / Approved / Closed | 
+BA-DEC-2026-002 |  |  |  |  |  | High / Medium / Low | Open / Approved / Closed | 
+[END TABLE]
+
+Decision categories: Sales decision, Finance decision, HR decision, Operations decision, Client decision, Legal decision, Procurement decision, Strategy decision, Brand decision, and General management decision.
+SECTION 16 - MANAGEMENT ACTION TRACKER
+All important actions must be tracked until completion.
+
+[TABLE]
+Action Code | Action Item | Department | Responsible Person | Start Date | Deadline | Priority | Status | Notes
+BA-MGT-ACT-2026-001 |  |  |  |  |  | High / Medium / Low | Open / In Progress / Closed | 
+BA-MGT-ACT-2026-002 |  |  |  |  |  | High / Medium / Low | Open / In Progress / Closed | 
+[END TABLE]
+
+Status options: Open, In Progress, Waiting, Delayed, Completed, Closed, Cancelled.
+SECTION 17 - MONTHLY MANAGEMENT REPORT
+At the end of every month, Base Agency shall prepare a Monthly Management Report.
+Monthly Report Sections
+1. Executive summary.
+2. Sales performance.
+3. Finance performance.
+4. HR and attendance performance.
+5. Operations and project performance.
+6. Client experience summary.
+7. Quality and risk summary.
+8. Problems and corrective actions.
+9. CEO / Management decisions.
+10. Next month plan.
+SECTION 18 - MONTHLY MANAGEMENT REPORT TEMPLATE
+Month: ___________________
+Year: ____________________
+Prepared By: _____________________________________
+Date: ____ / ____ / ______
+Executive Summary
+_________________________________________________
+_________________________________________________
+Sales Summary
+Total Leads: _____________________________________
+Proposals Sent: ___________________________________
+Deals Closed: _____________________________________
+Closed Sales Value: _______________________________
+Finance Summary
+Total Income: ____________________________________
+Total Expenses: __________________________________
+Net Profit / Loss: ________________________________
+Cash Balance: ____________________________________
+HR Summary
+Total Employees: _________________________________
+Attendance Rate: _________________________________
+HR Issues: _______________________________________
+Operations Summary
+Active Projects: __________________________________
+Completed Projects: ______________________________
+Delayed Projects: _________________________________
+Client Summary
+Client Feedback: __________________________________
+Complaints: ______________________________________
+Satisfaction Status: ______________________________
+Main Problems
+1. ______________________________________________
+2. ______________________________________________
+3. ______________________________________________
+Required Decisions
+1. ______________________________________________
+2. ______________________________________________
+3. ______________________________________________
+Next Month Priorities
+1. ______________________________________________
+2. ______________________________________________
+3. ______________________________________________
+Prepared By: _____________________________________
+Reviewed By: _____________________________________
+Approved By: _____________________________________
+SECTION 19 - DASHBOARD UPDATE ROUTINE
+Daily Updates
+1. Sales CRM.
+2. Client follow-ups.
+3. Attendance.
+4. Active tasks.
+5. Project progress.
+6. Finance income and expenses where applicable.
+Weekly Updates
+1. Sales dashboard.
+2. Finance dashboard.
+3. HR dashboard.
+4. Operations dashboard.
+5. Management action tracker.
+6. Decision register.
+Monthly Updates
+1. Monthly management report.
+2. Profit and loss summary.
+3. HR report.
+4. Sales report.
+5. Operations report.
+6. KPI review.
+7. Improvement plan.
+SECTION 20 - RESPONSIBILITY MATRIX
+
+[TABLE]
+Dashboard Area | Responsible Person / Department | Review By
+CEO Dashboard | Administration / COO | CEO
+Sales Dashboard | Sales / Client Relations | CEO / COO
+Finance Dashboard | Finance / Office Admin | CEO
+HR Dashboard | HR / Office Admin | CEO / COO
+Operations Dashboard | COO / Operations | CEO
+Client Experience Dashboard | Sales / Client Relations | CEO / COO
+Quality & Risk Dashboard | Operations / Management | CEO
+Document Control Dashboard | Administration | CEO / COO
+Management Action Tracker | COO / Administration | CEO
+[END TABLE]
+
+SECTION 21 - DASHBOARD CONTROL RULES
+1. Dashboard data must be updated accurately.
+2. No false or estimated data should be entered without note.
+3. Every red status must have an action item.
+4. Every delayed action must be reviewed weekly.
+5. Every pending CEO decision must be recorded.
+6. Finance data must remain confidential.
+7. HR data must remain confidential.
+8. Client information must be protected.
+9. The dashboard must be reviewed weekly by Management.
+10. Monthly reports must be prepared from dashboard data.
+SECTION 22 - FILE STORAGE
+This dashboard shall be saved in:
+BASE AGENCY
+11 - Master Corporate Manual & Company-Wide Control
+Recommended file name:
+BA-MANAGEMENT-DASHBOARD-2026 - Base Agency Company Operating System Dashboard - Version 1.0
+Additional copies may be saved in:
+BASE AGENCY | 07 - KPI & Performance
+BASE AGENCY | 10 - Corporate Governance
+BASE AGENCY | 20 - Corporate Strategy, Annual Planning & Business Growth
+SECTION 23 - FINAL DECLARATION
+This Company Operating System Dashboard is approved as the official management dashboard and operating control system of Base Agency.
+It defines CEO dashboard, sales dashboard, finance dashboard, HR dashboard, operations dashboard, client experience dashboard, quality and risk dashboard, document control dashboard, weekly management meeting, monthly management report, decision register, management action tracker, update routine, responsibilities, and control rules.
+All managers, departments, divisions, and authorized persons must use this dashboard to manage Base Agency with clarity, accountability, discipline, and continuous improvement.
+APPROVED BY
+Omar Abbas Abdulrahman
+CEO & Founder
+Base Agency
+Signature: ___________________________
+Company Stamp: ______________________
+Date: _______________________________

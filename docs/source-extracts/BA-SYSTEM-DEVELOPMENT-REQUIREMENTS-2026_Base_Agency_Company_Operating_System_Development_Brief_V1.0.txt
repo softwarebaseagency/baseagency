@@ -1,0 +1,368 @@
+SOURCE FILE: BA-SYSTEM-DEVELOPMENT-REQUIREMENTS-2026_Base_Agency_Company_Operating_System_Development_Brief_V1.0.docx
+EXTRACTED: 2026-06-24T21:18:00
+
+BASE AGENCY
+COMPANY OPERATING SYSTEM DEVELOPMENT REQUIREMENTS
+Professional Brief for System Developer
+This document explains how the attached Base Agency system files must be converted into a live company operating system. The system must support data entry, tracking, filtering, reporting, dashboards, approvals, user access control, and management review.
+
+[TABLE]
+Document Code | BA-SYSTEM-DEVELOPMENT-REQUIREMENTS-2026
+Document Title | Base Agency Company Operating System Development Requirements
+Version | 1.0
+Classification | Internal / Management Confidential
+Prepared For | System Developer / Software Team / Implementation Consultant
+Prepared By | Base Agency
+Approved By | Omar Abbas Abdulrahman, CEO & Founder
+[END TABLE]
+
+Company Details
+
+[TABLE]
+Company Name | Base Agency
+Head Office | Empire Business Tower, Building T3 - Floor 19 - Office 4, Erbil, Kurdistan Region of Iraq
+Email | info@baseagy.com
+Website | www.baseagy.com
+Phone | +964 750 075 6565 / +964 775 075 6565
+Slogan | Excellence is our promise. Quality is never optional.
+[END TABLE]
+
+1. Purpose of This Development Brief
+This brief must be sent together with the official Base Agency operating system files. Its purpose is to guide the person or team who will build the digital system, dashboard, database, or internal platform for Base Agency.
+The attached documents are not only reference files. They are the foundation for building a complete, live, professional, expandable, and controlled company operating system.
+Main Purpose
+1. Convert the attached Word documents into a live working system.
+2. Create structured modules for management, sales, finance, HR, operations, clients, reports, approvals, and documents.
+3. Allow authorized users to enter, update, filter, search, and review company data.
+4. Create dashboards that show company performance clearly to management.
+5. Reduce missing information, random follow-up, and undocumented decisions.
+6. Make Base Agency operate through a real company operating system, not through scattered files or WhatsApp messages only.
+2. Attached Files to Be Used as Main References
+
+[TABLE]
+No. | Document Code | Document Title | How It Must Be Used
+1 | BA-COMPANY-SYSTEM-2026 | Complete Company Operating System Manual | Master system logic and company workflow
+2 | BA-MANAGEMENT-DASHBOARD-2026 | Company Operating System Dashboard | CEO dashboard, department summaries, KPIs, decisions, and actions
+3 | BA-SALES-TRACKER-2026 | CRM & Sales Pipeline Tracker | Lead management, client follow-up, proposals, quotations, and deals
+4 | BA-CLIENT-LIST-2026 | Erbil Target Client List & Outreach Plan | Target client database and outreach workflow
+5 | BA-FIN-TRACKER-2026 | Finance, Income & Expense Tracker | Income, expenses, invoices, receipts, payroll, petty cash, profit/loss
+6 | BA-HR-TRACKER-2026 | HR, Attendance & Employee File Tracker | Employee records, attendance, leave, overtime, evaluation, HR discipline
+7 | BA-OPS-TRACKER-2026 | Operations, Projects & Task Management Tracker | Projects, tasks, deadlines, quality checks, delivery, handover
+8 | BA-SERVICE-PACKAGES-2026 | Priority Service Packages & Price List | Services, packages, pricing, proposal reference
+[END TABLE]
+
+3. Overall System Requirement
+The required system must not be only a place to upload documents. It must be a live operating system where information is entered, updated, organized, searched, filtered, reported, and displayed through dashboards.
+The system must allow Base Agency to:
+1. Enter daily data easily from each department.
+2. Track every client, employee, project, task, payment, expense, approval, and decision.
+3. Show company status from one central management dashboard.
+4. Generate weekly and monthly reports.
+5. Control approval workflows and decision records.
+6. Protect confidential HR, finance, client, and management data.
+7. Assign responsibilities and deadlines.
+8. Show delayed, pending, completed, and critical items clearly.
+9. Use status colors: Green, Yellow, and Red.
+10. Support future growth and additional branches or departments.
+4. Required System Modules
+
+[TABLE]
+No. | Module | Required Function
+1 | Management Dashboard | Central management page for CEO/COO with all key indicators.
+2 | Sales CRM | Leads, clients, follow-ups, meetings, proposals, quotations, won/lost deals.
+3 | Client List & Outreach | Erbil target client database with outreach plan and follow-up tracking.
+4 | Finance Tracker | Income, expenses, invoices, receipts, petty cash, salary, cash flow, profit/loss.
+5 | HR & Attendance | Employees, files, contracts, attendance, leave, overtime, probation, evaluations.
+6 | Operations & Projects | Project register, task assignment, deadlines, issues, quality checks, delivery.
+7 | Service Packages | Services, packages, price list, package reference for proposals and quotations.
+8 | Reports & KPIs | Weekly/monthly reports, department KPIs, employee KPIs, company performance.
+9 | Approvals & Decisions | CEO approvals, management decisions, pending decisions, action tracker.
+10 | Document Control | Document codes, version numbers, document owners, approvals, archive, templates.
+[END TABLE]
+
+5. General Data Structure and Field Standards
+The system must use consistent field standards across all modules. Fields must be searchable and filterable wherever applicable.
+
+[TABLE]
+Field Type | Required Standard
+Code / ID | Unique code for each client, project, employee, invoice, task, approval, or document.
+Date Fields | Start date, deadline, follow-up date, payment date, attendance date, meeting date, delivery date.
+Status Fields | New, Open, In Progress, Waiting, Approved, Completed, Closed, Delayed, Lost, Cancelled.
+Priority Fields | High, Medium, Low.
+Responsible Person | The person accountable for the record or action.
+Department / Division | The related department, service division, or management unit.
+Notes / Remarks | Free-text notes for explanation, management review, or follow-up details.
+Attachment Field | Optional upload field for related files such as contracts, invoices, proposals, CVs, receipts, and approvals.
+Audit Trail | Where possible, record who created or edited a record and when.
+[END TABLE]
+
+6. Sales CRM Module Requirements
+The Sales CRM module must manage the full sales pipeline from target client to closed deal.
+
+[TABLE]
+Required Field | Description
+Client Code | Auto or manual code such as BA-CRM-2026-001.
+Client Name | Official company/client name.
+Industry | Clinic, restaurant, real estate, hotel, school, retail, corporate, etc.
+Contact Person | Name of decision-maker or contact person.
+Phone / WhatsApp | Contact number.
+Email | Client email if available.
+Location | City, area, office, branch, or address.
+Instagram / Website | Client digital presence.
+Service Opportunity | Social media, website, printing, branding, IT, events, interior, CCTV, etc.
+Lead Source | Referral, phone, WhatsApp, Instagram, visit, website, walk-in, campaign.
+Status | New, Contacted, Interested, Meeting Scheduled, Proposal Sent, Quotation Sent, Won, Lost.
+Priority | High, Medium, Low.
+Responsible Person | Sales or business development person.
+Follow-Up Date | Next contact date.
+Meeting Status | Requested, Scheduled, Completed, Cancelled.
+Proposal / Quotation Status | Required, Sent, Under Review, Approved, Rejected.
+Deal Value | Expected or approved amount.
+Notes | Client details, discussion summary, reason lost, requirements.
+[END TABLE]
+
+Sales Workflow
+1. Add new client into the CRM or target client list.
+2. Classify client by industry, service opportunity, and priority.
+3. Contact client by phone, WhatsApp, email, Instagram, referral, or visit.
+4. Record contact result and next follow-up date.
+5. Schedule meeting if the client is interested.
+6. Record client needs and expected service package.
+7. Send company profile, proposal, quotation, or service package.
+8. Follow up until the opportunity is won, lost, or postponed.
+9. If won, hand over to Finance and Operations with complete details.
+7. Client List & Outreach Module Requirements
+This module must allow Base Agency to build and manage a target client database for Erbil. It must also support outreach planning and tracking.
+
+[TABLE]
+Target Client Category | Main Service Opportunity
+Clinics & Medical Centers | Social media, website, branding, printing, signage
+Restaurants & Cafes | Social media, menu design, printing, branding, opening campaign
+Real Estate & Construction | Company profile, website, branding, signage, campaign
+Beauty Clinics & Salons | Social media, ads, branding, interior, printing
+Hotels & Hospitality | Website, events, AV, branding, social media
+Schools & Institutes | Website, printing, events, branding, social media
+Retail Stores | Branding, campaigns, social media, signage, printing
+Gyms & Fitness Centers | Social media, campaigns, branding, website, printing
+Corporate Offices | Website, IT, networking, security, branding
+Car Showrooms | Social media, photography, video, branding, campaign
+Event Halls | AV, events, branding, social media, lighting
+Pharmacies | Branding, signage, printing, social media
+[END TABLE]
+
+8. Finance Module Requirements
+The Finance module must track all money entering and leaving Base Agency. It must support income, expenses, invoices, receipts, petty cash, salaries, and profit/loss reporting.
+
+[TABLE]
+Required Field | Description
+Transaction Code | Unique income, expense, invoice, receipt, or payment code.
+Date | Transaction date.
+Type | Income, expense, invoice, receipt, salary, supplier payment, petty cash.
+Client / Supplier / Employee | Related party name.
+Description | Purpose of payment or receipt.
+Amount | Amount in IQD or USD as defined by company policy.
+Payment Method | Cash, bank transfer, card, other.
+Status | Pending, paid, received, overdue, cancelled.
+Reference Number | Invoice number, receipt number, voucher number, or approval number.
+Responsible Person | Finance/Admin person handling the record.
+Attachment | Receipt, invoice, proof of payment, approval document.
+Notes | Management notes or finance remarks.
+[END TABLE]
+
+Finance Dashboard Must Show
+- Total income
+- Total expenses
+- Net profit or loss
+- Cash balance
+- Pending client payments
+- Pending supplier payments
+- Invoices issued
+- Receipts issued
+- Salary cost
+- Office rent and fixed monthly costs
+9. HR, Attendance & Employee File Module Requirements
+The HR module must manage employee records, attendance, leave, overtime, probation, evaluation, warnings, training, and exit clearance.
+
+[TABLE]
+Required Field | Description
+Employee Code | Unique employee ID such as BA-EMP-2026-001.
+Full Name | Employee full legal name.
+Job Title | Official job title.
+Department / Division | Employee department or service division.
+Start Date | Employment start date.
+Contract Status | Draft, signed, active, expired, terminated.
+Attendance Status | Present, absent, late, leave, business mission.
+Fingerprint Status | Registered, not registered, inactive.
+Leave Balance | Annual leave balance and used leave.
+Overtime | Approved overtime hours.
+Probation Status | Under probation, passed, extended, failed.
+Performance Score | Evaluation result or KPI score.
+Employee File Completion | Complete, incomplete, missing documents.
+Notes | HR remarks, warnings, training, exit clearance.
+[END TABLE]
+
+10. Operations, Projects & Tasks Module Requirements
+The Operations module must manage approved projects from handover to delivery and closure. It must show tasks, deadlines, responsible persons, progress, issues, quality checks, and client approval.
+
+[TABLE]
+Required Field | Description
+Project Code | Unique code such as BA-PRJ-2026-001.
+Client Name | Client connected to the project.
+Service Division | Events, Marketing, Print, Architecture, IT, Robotics, Networking, AV, Security, AI.
+Project Title | Short project name.
+Scope of Work | Approved service scope.
+Start Date | Project start date.
+Deadline | Approved delivery deadline.
+Responsible Person | Project owner or manager.
+Task List | Main project tasks and sub-tasks.
+Task Owner | Responsible employee for each task.
+Progress | Percentage or status.
+Project Status | Not started, in progress, waiting client, delayed, completed, closed.
+Issue / Delay | Problem description and cause of delay.
+Quality Check | Passed, failed, rework required, pending.
+Client Approval | Pending, approved, rejected, revision required.
+Delivery / Handover | Delivered, partially delivered, closed.
+[END TABLE]
+
+11. Service Packages & Price List Module Requirements
+This module must make the Base Agency service packages available for sales and proposal preparation. It should allow management to update prices and service details when required.
+
+[TABLE]
+Required Field | Description
+Service Code | Unique package or service code.
+Service Category | Social Media, Printing, Website, IT, Events, Interior, CCTV, AV, AI, etc.
+Package Name | Essential, Business, Professional, Enterprise, Custom.
+Package Description | Short explanation of the package.
+Included Items | Deliverables included in the package.
+Price / Price Range | Approved price or price range.
+Billing Type | One-time, monthly retainer, project-based, hourly, custom.
+Approval Requirement | Whether management approval is needed before offering.
+Notes | Conditions, exclusions, negotiation notes.
+[END TABLE]
+
+12. Management Dashboard Requirements
+The dashboard must provide management with a clear view of the company status. It must collect summaries from Sales, Finance, HR, Operations, Client Experience, Quality, Risk, and Decisions.
+
+[TABLE]
+Dashboard Area | Required Indicators
+Sales | Total leads, active opportunities, proposals, quotations, deals won/lost, pipeline value.
+Finance | Income, expenses, profit/loss, cash balance, pending payments, invoices, receipts.
+HR | Total employees, attendance rate, late arrivals, absences, leave, employee files, evaluations.
+Operations | Active projects, completed projects, delayed projects, tasks, quality checks, client approvals.
+Client Experience | Active clients, new clients, feedback, complaints, complaint resolution, satisfaction.
+Quality & Risk | Open issues, critical issues, rework, delayed actions, risks, corrective actions.
+Approvals | Pending CEO decisions, approved items, rejected items, actions waiting for management.
+[END TABLE]
+
+Dashboard Color Rules
+
+[TABLE]
+Color | Meaning
+Green | On track / Good / Target achieved / No major issue
+Yellow | Needs attention / Delay risk / Missing information / Medium issue
+Red | Critical / Immediate action required / Financial loss / Client risk / Serious delay
+[END TABLE]
+
+13. User Access Levels
+
+[TABLE]
+User Role | Required Access
+CEO | Full access to all modules, dashboards, approvals, reports, finance, HR, and decisions.
+COO | Access to operations, management dashboard, reports, project follow-up, department coordination.
+Sales / Business Development | Access to Sales CRM, Client List, Follow-ups, Meetings, Proposals, Quotations, Service Packages.
+Finance / Office Admin | Access to Finance, Invoices, Receipts, Expenses, Payroll, Petty Cash, limited HR if authorized.
+HR / Admin | Access to Employee Records, Attendance, Leave, HR Files, Evaluations, Warnings, Reports.
+Operations Team | Access to Projects, Tasks, Deadlines, Work Orders, Quality Checks, Delivery and Handover.
+Marketing / Brand Team | Access to service packages, portfolio, client-related marketing tasks, proposal support.
+View-Only Users | Limited access to assigned dashboards or records only.
+[END TABLE]
+
+14. Reporting Requirements
+The system must support weekly and monthly reports. Reports may be generated automatically from records, exported to PDF or Excel, or prepared through dashboard summaries.
+
+[TABLE]
+Frequency | Required Reports
+Daily | Attendance summary, daily tasks, sales follow-ups, project progress, urgent issues.
+Weekly | Sales report, finance summary, HR summary, operations report, action tracker, management meeting summary.
+Monthly | Management report, profit/loss report, KPI report, HR report, operations report, sales performance, improvement plan.
+On Demand | Client report, employee report, project report, invoice report, decision report, risk report.
+[END TABLE]
+
+15. Filters, Search and Views
+Every module must include useful filtering and search options. The system should make it easy for management and users to find records quickly.
+- Filter by date range.
+- Filter by department or service division.
+- Filter by status.
+- Filter by priority.
+- Filter by responsible person.
+- Filter by client name.
+- Filter by project code, invoice code, employee code, or document code.
+- Search by keyword in notes or descriptions.
+- Saved views for CEO, Sales, Finance, HR, Operations, and Management.
+16. Document Control and File Organization
+The system must include file and document control. Documents should be organized by category, code, version, owner, approval status, and storage location.
+
+[TABLE]
+Document Control Field | Required Use
+Document Code | Each official file must have a code such as BA-HR-TRACKER-2026.
+Version | Every controlled document must show version number such as V1.0, V1.1, V2.0.
+Owner | Department or person responsible for the document.
+Status | Draft, under review, approved, active, archived, replaced, cancelled.
+Storage Location | Folder or module where the file belongs.
+Attachment Link | Link or upload to related file.
+Approval | Approved by CEO, COO, department head, or responsible person.
+[END TABLE]
+
+17. Development Deliverables Required from System Developer
+Before starting development, the system developer must provide the following items for Base Agency review and approval.
+
+[TABLE]
+No. | Required Deliverable | Description
+1 | Proposed System Structure | List of pages, modules, dashboards, databases, and user roles.
+2 | Module Plan | Detailed explanation of each module and its workflow.
+3 | Database / Table Structure | Fields, relationships, codes, statuses, and data types.
+4 | Dashboard Design Plan | Dashboard layout, charts, KPIs, filters, and status color system.
+5 | User Access Plan | Role-based access for CEO, COO, Sales, Finance, HR, Operations, View-only users.
+6 | Data Entry Forms | Forms for clients, employees, projects, invoices, expenses, tasks, approvals.
+7 | Report Templates | Weekly and monthly reports generated from system data.
+8 | Implementation Timeline | Development phases and expected completion dates.
+9 | Testing Plan | How the developer will test data entry, permissions, dashboards, reports, and exports.
+10 | Training Plan | Training method for Base Agency users.
+[END TABLE]
+
+18. Questions the Developer Must Answer Before Starting
+1. What platform do you recommend for the system and why?
+2. Will the system be web-based, Excel-based, cloud-based, or custom software?
+3. Can multiple users enter data at the same time?
+4. Can access be limited by user role?
+5. Can the system generate reports automatically?
+6. Can data be exported to Excel and PDF?
+7. Can documents and attachments be uploaded to each record?
+8. How will data backup be handled?
+9. How will confidential HR and finance information be protected?
+10. How long will development, testing, and training take?
+19. Important Instruction to Developer
+Base Agency does not need only a folder where files are uploaded. Base Agency needs a live operating system where data can be entered, tracked, filtered, reported, and shown through dashboards.
+The final system must be clean, professional, easy to use, expandable, and suitable for Base Agency future growth, including additional departments, service divisions, branches, and international expansion.
+20. Implementation Priority
+
+[TABLE]
+Phase | Priority Area | Required Modules
+Phase 1 | Core Data Entry | Sales CRM, Client List, Finance, HR, Operations
+Phase 2 | Dashboards & Reports | Management Dashboard, KPI, Weekly Reports, Monthly Reports
+Phase 3 | Controls & Approvals | Approval register, decision register, action tracker, document control
+Phase 4 | Optimization | Automation, charts, alerts, export, backups, user training
+[END TABLE]
+
+21. Final Approval Statement
+This development requirements brief is approved as the official system development instruction document for Base Agency. It must be used together with the attached Base Agency operating system documents to build a complete internal management system.
+The system developer must review all attached files carefully, prepare a proposed system structure, and confirm the development plan before implementation begins.
+
+[TABLE]
+Approved By | Omar Abbas Abdulrahman
+Position | CEO & Founder
+Signature | _______________________________
+Company Stamp | _______________________________
+Date | ____ / ____ / ______
+[END TABLE]
+

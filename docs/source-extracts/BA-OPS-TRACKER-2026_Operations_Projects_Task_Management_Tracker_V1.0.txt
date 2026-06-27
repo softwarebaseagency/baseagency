@@ -1,0 +1,422 @@
+SOURCE FILE: BA-OPS-TRACKER-2026_Operations_Projects_Task_Management_Tracker_V1.0.docx
+EXTRACTED: 2026-06-24T21:18:00
+
+BASE AGENCY
+OPERATIONS, PROJECTS & TASK MANAGEMENT TRACKER
+Version 1.0
+Company Name: Base Agency
+Head Office: Empire Business Tower, Building T3 – Floor 19 – Office 4, Erbil, Kurdistan Region of Iraq
+Email: info@baseagy.com
+Website: www.baseagy.com
+Phone: +964 750 075 6565 / +964 775 075 6565
+Slogan: Excellence is our promise. Quality is never optional.
+DOCUMENT CONTROL
+
+[TABLE]
+Field | Information
+Document Code | BA-OPS-TRACKER-2026
+Document Title | Operations, Projects & Task Management Tracker
+Version | 1.0
+Classification | Internal / Operations Confidential
+Prepared For | Base Agency
+Approved By | Omar Abbas Abdulrahman, CEO & Founder
+[END TABLE]
+
+SECTION 1 - PURPOSE
+The purpose of this Operations, Projects & Task Management Tracker is to help Base Agency plan, organize, assign, monitor, deliver, and close all client projects and internal operational tasks.
+This tracker shall be used to control project status, task assignments, deadlines, responsible persons, service divisions, client requirements, project progress, issues, quality checks, approvals, handovers, and final project closure.
+SECTION 2 - OPERATIONS OBJECTIVES
+1. Record all approved projects.
+2. Assign project responsibilities clearly.
+3. Track project start dates and deadlines.
+4. Track task assignments for employees and divisions.
+5. Monitor project progress.
+6. Identify delays and problems early.
+7. Control quality before delivery.
+8. Record client approvals and handovers.
+9. Close projects professionally.
+10. Prepare weekly and monthly operations reports.
+SECTION 3 - OPERATIONS TRACKER SHEETS
+The Operations Tracker should be created in Excel with the following sheets:
+1. Operations Dashboard
+2. Project Register
+3. Project Kickoff Register
+4. Task Assignment Register
+5. Work Order Register
+6. Project Timeline Tracker
+7. Daily Task Tracker
+8. Weekly Operations Report
+9. Issue & Delay Register
+10. Quality Check Register
+11. Client Approval Register
+12. Delivery Handover Register
+13. Project Closure Register
+14. Resource & Responsibility Tracker
+15. Division Workload Tracker
+16. Operations Action Tracker
+SECTION 4 - OPERATIONS DASHBOARD
+
+[TABLE]
+Indicator | Value | Notes
+Total Active Projects |  | 
+Projects Not Started |  | 
+Projects In Progress |  | 
+Projects Waiting Client |  | 
+Delayed Projects |  | 
+Completed Projects |  | 
+Closed Projects |  | 
+Active Tasks |  | 
+Completed Tasks |  | 
+Delayed Tasks |  | 
+Quality Checks Completed |  | 
+Client Approvals Pending |  | 
+Deliveries Completed |  | 
+Issues Open |  | 
+[END TABLE]
+
+SECTION 5 - PROJECT STATUS DEFINITIONS
+
+[TABLE]
+Status | Meaning
+Not Started | Project is approved but work has not started
+In Progress | Work is currently active
+Waiting Client | Waiting for client information, files, approval, or feedback
+Waiting Internal Approval | Waiting for internal review or management approval
+Delayed | Project has missed deadline or risk of delay exists
+Quality Check | Work is under internal quality review
+Ready for Delivery | Work is approved internally and ready to deliver
+Delivered | Work has been delivered to client
+Completed | Project work is completed
+Closed | Project is completed, approved, recorded, and archived
+Cancelled | Project was cancelled
+[END TABLE]
+
+SECTION 6 - PROJECT REGISTER
+All approved projects must be recorded in the Project Register.
+
+[TABLE]
+Project Code | Client Name | Project Name | Service Division | Project Manager | Start Date | Deadline | Project Value | Status | Progress % | Notes
+BA-PRJ-2026-001 |  |  |  |  |  |  |  | Not Started | 0% | 
+BA-PRJ-2026-002 |  |  |  |  |  |  |  | Not Started | 0% | 
+BA-PRJ-2026-003 |  |  |  |  |  |  |  | Not Started | 0% | 
+[END TABLE]
+
+SECTION 7 - SERVICE DIVISION OPTIONS
+The service division must match Base Agency’s official divisions:
+1. Events Management & Production Division
+2. Marketing, Advertising & Brand Communications Division
+3. Print Production & Promotional Solutions Division
+4. Architecture, Interior Design & Fit-Out Division
+5. Information Technology, Software Development & Cybersecurity Division
+6. Robotics, Automation & Intelligent Systems Division
+7. Networking, Telecommunications & Infrastructure Division
+8. Audio Visual (AV), Broadcasting & Media Systems Division
+9. Security, Surveillance & Access Control Systems Division
+10. Artificial Intelligence, Data Analytics & Digital Transformation Division
+SECTION 8 - PROJECT KICKOFF REGISTER
+Every approved project must have a kickoff record.
+
+[TABLE]
+Kickoff Code | Project Code | Client Name | Project Name | Kickoff Date | Project Manager | Sales Handover Received | Scope Confirmed | Payment Status | Status
+BA-OPS-KO-2026-001 |  |  |  |  |  | Yes / No | Yes / No | Paid / Partial / Pending | Open
+BA-OPS-KO-2026-002 |  |  |  |  |  | Yes / No | Yes / No | Paid / Partial / Pending | Open
+[END TABLE]
+
+Kickoff must confirm:
+1. Client information.
+2. Approved scope.
+3. Approved price.
+4. Payment status.
+5. Required files and materials.
+6. Responsible division.
+7. Project manager.
+8. Deadline.
+9. Special client requirements.
+10. Quality requirements.
+SECTION 9 - TASK ASSIGNMENT REGISTER
+All project and internal tasks must be recorded.
+
+[TABLE]
+Task Code | Project Code | Task Title | Assigned To | Assigned By | Start Date | Deadline | Priority | Status | Progress % | Notes
+BA-TASK-2026-001 |  |  |  |  |  |  | High / Medium / Low | Open | 0% | 
+BA-TASK-2026-002 |  |  |  |  |  |  | High / Medium / Low | Open | 0% | 
+BA-TASK-2026-003 |  |  |  |  |  |  | High / Medium / Low | Open | 0% | 
+[END TABLE]
+
+Task status options: Open, In Progress, Waiting Client, Waiting Approval, Completed, Delayed, Cancelled, Closed.
+SECTION 10 - WORK ORDER REGISTER
+Work orders are used when a task or project activity must be formally assigned.
+
+[TABLE]
+Work Order No. | Project Code | Client Name | Work Required | Assigned Division | Assigned To | Issue Date | Deadline | Priority | Status
+BA-WO-2026-001 |  |  |  |  |  |  |  | High / Medium / Low | Open
+BA-WO-2026-002 |  |  |  |  |  |  |  | High / Medium / Low | Open
+[END TABLE]
+
+SECTION 11 - PROJECT TIMELINE TRACKER
+The project timeline tracker shall record key project milestones.
+
+[TABLE]
+Timeline Code | Project Code | Milestone | Responsible Person | Planned Date | Actual Date | Status | Delay Reason | Notes
+BA-TL-2026-001 |  | Kickoff |  |  |  | Open / Completed / Delayed |  | 
+BA-TL-2026-002 |  | First Draft / First Stage |  |  |  | Open / Completed / Delayed |  | 
+BA-TL-2026-003 |  | Client Review |  |  |  | Open / Completed / Delayed |  | 
+BA-TL-2026-004 |  | Final Delivery |  |  |  | Open / Completed / Delayed |  | 
+[END TABLE]
+
+SECTION 12 - DAILY TASK TRACKER
+Every working day, active tasks should be reviewed.
+
+[TABLE]
+Date | Employee Name | Project / Department | Task | Status | Completed Today | Pending Work | Problem / Delay | Tomorrow Plan
+ |  |  |  | Open / In Progress / Completed |  |  |  | 
+ |  |  |  | Open / In Progress / Completed |  |  |  | 
+[END TABLE]
+
+SECTION 13 - ISSUE & DELAY REGISTER
+All project problems, delays, and operational issues must be recorded.
+
+[TABLE]
+Issue Code | Date | Project Code | Issue Type | Description | Impact Level | Responsible Person | Required Action | Deadline | Status
+BA-ISS-2026-001 |  |  | Client Delay / Internal Delay / Technical / Quality / Finance / Other |  | Low / Medium / High / Critical |  |  |  | Open
+BA-ISS-2026-002 |  |  | Client Delay / Internal Delay / Technical / Quality / Finance / Other |  | Low / Medium / High / Critical |  |  |  | Open
+[END TABLE]
+
+Issue status options: Open, Under Review, Waiting Client, Waiting Management, Action Required, Resolved, Closed.
+SECTION 14 - QUALITY CHECK REGISTER
+Quality checks must be completed before final delivery.
+
+[TABLE]
+QC Code | Project Code | Client Name | Deliverable | Checked By | Check Date | Quality Status | Rework Required | Approved By | Notes
+BA-QC-2026-001 |  |  |  |  |  | Approved / Rework / Not Approved | Yes / No |  | 
+BA-QC-2026-002 |  |  |  |  |  | Approved / Rework / Not Approved | Yes / No |  | 
+[END TABLE]
+
+Quality check must confirm:
+1. Scope matched.
+2. Client requirements reviewed.
+3. Design or technical quality checked.
+4. Errors corrected.
+5. Final files checked.
+6. Delivery format checked.
+7. Internal approval completed.
+8. Client approval required where applicable.
+SECTION 15 - CLIENT APPROVAL REGISTER
+Client approvals must be recorded before final changes, delivery, or closure where required.
+
+[TABLE]
+Approval Code | Project Code | Client Name | Approval Type | Approval Date | Approved By Client | Method | Status | Notes
+BA-CL-APP-2026-001 |  |  | Design / Scope / Delivery / Revision / Final |  |  | Email / WhatsApp / Signed Form | Approved / Pending | 
+BA-CL-APP-2026-002 |  |  | Design / Scope / Delivery / Revision / Final |  |  | Email / WhatsApp / Signed Form | Approved / Pending | 
+[END TABLE]
+
+SECTION 16 - DELIVERY HANDOVER REGISTER
+All deliveries to clients must be recorded.
+
+[TABLE]
+Delivery Code | Project Code | Client Name | Delivered Item | Delivery Date | Delivered By | Received By | Client Confirmation | Status | Notes
+BA-DEL-2026-001 |  |  |  |  |  |  | Yes / No | Delivered / Pending | 
+BA-DEL-2026-002 |  |  |  |  |  |  | Yes / No | Delivered / Pending | 
+[END TABLE]
+
+SECTION 17 - PROJECT CLOSURE REGISTER
+A project must not be marked closed until closure requirements are completed.
+
+[TABLE]
+Closure Code | Project Code | Client Name | Project Name | Scope Completed | Quality Checked | Client Approved | Invoice Status | File Archived | Closure Status
+BA-CLOSE-2026-001 |  |  |  | Yes / No | Yes / No | Yes / No | Issued / Paid / Pending | Yes / No | Open / Closed
+BA-CLOSE-2026-002 |  |  |  | Yes / No | Yes / No | Yes / No | Issued / Paid / Pending | Yes / No | Open / Closed
+[END TABLE]
+
+SECTION 18 - RESOURCE & RESPONSIBILITY TRACKER
+This tracker shows who is responsible for each active operational area.
+
+[TABLE]
+Resource Code | Name | Job Title | Department / Division | Main Responsibility | Active Projects | Workload Level | Notes
+BA-RES-2026-001 |  |  |  |  |  | Low / Medium / High | 
+BA-RES-2026-002 |  |  |  |  |  | Low / Medium / High | 
+[END TABLE]
+
+SECTION 19 - DIVISION WORKLOAD TRACKER
+Base Agency shall monitor workload across service divisions.
+
+[TABLE]
+Division | Active Projects | Active Tasks | Delayed Tasks | Available Capacity | Notes
+Events Management & Production |  |  |  | Low / Medium / High | 
+Marketing, Advertising & Brand Communications |  |  |  | Low / Medium / High | 
+Print Production & Promotional Solutions |  |  |  | Low / Medium / High | 
+Architecture, Interior Design & Fit-Out |  |  |  | Low / Medium / High | 
+IT, Software Development & Cybersecurity |  |  |  | Low / Medium / High | 
+Robotics, Automation & Intelligent Systems |  |  |  | Low / Medium / High | 
+Networking, Telecommunications & Infrastructure |  |  |  | Low / Medium / High | 
+Audio Visual, Broadcasting & Media Systems |  |  |  | Low / Medium / High | 
+Security, Surveillance & Access Control Systems |  |  |  | Low / Medium / High | 
+AI, Data Analytics & Digital Transformation |  |  |  | Low / Medium / High | 
+[END TABLE]
+
+SECTION 20 - WEEKLY OPERATIONS REPORT
+Week From / To: _____________________________________________
+Prepared By: _____________________________________________
+
+[TABLE]
+Indicator | Result
+Active Projects | 
+New Projects Started | 
+Projects Completed | 
+Projects Closed | 
+Delayed Projects | 
+Active Tasks | 
+Completed Tasks | 
+Delayed Tasks | 
+Quality Checks Completed | 
+Client Approvals Pending | 
+Issues Open | 
+Issues Resolved | 
+[END TABLE]
+
+Weekly Operations Summary
+______________________________________________________________________________________________________________
+Main Completed Work
+1.
+2.
+3.
+Main Problems / Delays
+1.
+2.
+3.
+Next Week Operations Plan
+1.
+2.
+3.
+Prepared By: _____________________________________________
+Reviewed By: _____________________________________________
+Approved By: _____________________________________________
+SECTION 21 - OPERATIONS ACTION TRACKER
+
+[TABLE]
+Action Code | Issue / Action | Responsible Person | Deadline | Priority | Status | Notes
+BA-OPS-ACT-2026-001 |  |  |  | High / Medium / Low | Open / In Progress / Closed | 
+BA-OPS-ACT-2026-002 |  |  |  | High / Medium / Low | Open / In Progress / Closed | 
+[END TABLE]
+
+SECTION 22 - DAILY OPERATIONS ROUTINE
+Daily operations tasks:
+1. Review active projects.
+2. Review tasks due today.
+3. Assign new tasks.
+4. Follow up with responsible persons.
+5. Update project progress.
+6. Record delays and issues.
+7. Check client approvals required.
+8. Review completed work.
+9. Prepare tomorrow’s task plan.
+SECTION 23 - WEEKLY OPERATIONS ROUTINE
+Weekly operations tasks:
+1. Review all active projects.
+2. Review project deadlines.
+3. Review delayed tasks.
+4. Review quality check status.
+5. Review client approval status.
+6. Review project handovers from Sales.
+7. Review finance/payment dependencies.
+8. Prepare weekly operations report.
+9. Submit report to Management.
+SECTION 24 - MONTHLY OPERATIONS ROUTINE
+Monthly operations tasks:
+1. Review all projects started during the month.
+2. Review all completed projects.
+3. Review project profitability with Finance where required.
+4. Review project delays and reasons.
+5. Review client satisfaction and feedback.
+6. Review staff workload.
+7. Review quality issues.
+8. Prepare monthly operations report.
+9. Prepare improvement actions for next month.
+SECTION 25 - SALES TO OPERATIONS HANDOVER CONTROL
+When Sales closes a deal, Operations must receive:
+1. Client name.
+2. Contact person.
+3. Approved proposal or quotation.
+4. Approved scope.
+5. Approved price.
+6. Payment status.
+7. Deadline.
+8. Files and materials received.
+9. Client special requirements.
+10. Follow-up notes.
+No project should start without clear scope, deadline, and responsibility.
+SECTION 26 - OPERATIONS CONTROL RULES
+The following control rules are mandatory:
+1. Every project must have a project code.
+2. Every project must have a responsible project manager.
+3. Every task must have a responsible person.
+4. Every task must have a deadline.
+5. Delays must be recorded.
+6. Issues must be reported early.
+7. Quality check must be completed before delivery.
+8. Client approvals must be documented.
+9. Project delivery must be recorded.
+10. Project closure must be completed before archiving.
+11. Operations tracker must be updated daily.
+12. Weekly operations report must be prepared.
+SECTION 27 - RESPONSIBILITIES
+CEO & Founder
+Responsible for:
+Reviewing major project issues.
+Approving high-risk operational decisions.
+Supporting strategic clients and major projects.
+Reviewing monthly operations performance.
+COO / Operations Manager
+Responsible for:
+Managing daily operations.
+Assigning project managers and tasks.
+Reviewing project progress.
+Solving operational issues.
+Ensuring projects are delivered on time and with quality.
+Project Manager
+Responsible for:
+Managing assigned projects.
+Tracking tasks and deadlines.
+Communicating with Sales, Finance, and team members.
+Recording issues and delays.
+Ensuring quality check and client delivery.
+Sales / Client Relations
+Responsible for:
+Sending approved project details to Operations.
+Supporting client communication where needed.
+Confirming approved scope and client expectations.
+Supporting follow-up after delivery.
+Finance
+Responsible for:
+Confirming payment status.
+Tracking project costs where required.
+Issuing invoices related to project milestones.
+Supporting project profitability review.
+Employees / Team Members
+Responsible for:
+Completing assigned tasks.
+Reporting progress.
+Reporting delays early.
+Following quality standards.
+Updating responsible manager when tasks are completed.
+SECTION 28 - FILE STORAGE
+This tracker shall be saved in:
+BASE AGENCY > 06 - Operations > 06 - Operations Reports
+Recommended file name:
+BA-OPS-TRACKER-2026 – Operations, Projects & Task Management Tracker – Version 1.0
+Additional copies may be saved in:
+BASE AGENCY > 06 - Operations > 02 - Project Planning
+BASE AGENCY > 06 - Operations > 03 - Work Orders & Task Assignment
+BASE AGENCY > 06 - Operations > 04 - Quality Control
+BASE AGENCY > 06 - Operations > 05 - Delivery & Handover
+SECTION 29 - FINAL DECLARATION
+This Operations, Projects & Task Management Tracker is approved as the official operations tracking and project management system of Base Agency.
+It defines project registers, kickoff records, task assignments, work orders, project timelines, daily task tracking, issue and delay registers, quality checks, client approvals, delivery handovers, project closure, resource tracking, division workload tracking, weekly operations reporting, responsibilities, and operations control rules.
+All managers, project managers, sales representatives, finance representatives, employees, service divisions, and authorized persons must use this tracker to control projects, tasks, deadlines, delivery, quality, and operations reporting.
+APPROVED BY
+Omar Abbas Abdulrahman
+CEO & Founder
+Base Agency
+Signature: _____________________________________________
+Company Stamp: _____________________________________________
+Date: _____________________________________________

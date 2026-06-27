@@ -1,0 +1,423 @@
+SOURCE FILE: BA-COMPANY-SYSTEM-2026_Base_Agency_Complete_Company_Operating_System_Manual_V1.0.docx
+EXTRACTED: 2026-06-24T21:18:00
+
+BASE AGENCY
+COMPLETE COMPANY OPERATING SYSTEM MANUAL
+Version 1.0
+Company Name: Base Agency
+Head Office: Empire Business Tower, Building T3 - Floor 19 - Office 4, Erbil, Kurdistan Region of Iraq
+Email: info@baseagy.com
+Website: www.baseagy.com
+Phone: +964 750 075 6565 / +964 775 075 6565
+Slogan: Excellence is our promise. Quality is never optional.
+
+[TABLE]
+Document Code | Document Title | Version | Classification
+BA-COMPANY-SYSTEM-2026 | Base Agency Complete Company Operating System Manual | 1.0 | Internal / Management Confidential
+[END TABLE]
+
+
+[TABLE]
+Prepared For | Approved By
+CEO, COO, Management, Departments & Divisions | Omar Abbas Abdulrahman, CEO & Founder
+[END TABLE]
+
+SECTION 1 - PURPOSE
+The purpose of this Complete Company Operating System Manual is to define how Base Agency shall operate as a structured, disciplined, controlled, and professional company.
+This manual connects all company systems together, including management, sales, finance, human resources, operations, client experience, quality control, reporting, approvals, document control, and continuous improvement.
+The goal is to ensure that Base Agency does not operate randomly, verbally, or without control. Every department, employee, client, project, payment, approval, task, and report must be managed through an official system.
+SECTION 2 - COMPANY OPERATING PRINCIPLE
+Base Agency shall operate based on the following principle:
+• Every task must have an owner.
+• Every client must be recorded.
+• Every payment must be tracked.
+• Every employee must have a file.
+• Every project must have a code.
+• Every decision must be documented.
+• Every delay must be followed up.
+• Every mistake must be corrected.
+• Every department must report.
+• Every month must be reviewed.
+SECTION 3 - CORE COMPANY SYSTEMS
+Base Agency’s complete operating system shall consist of the following core systems:
+
+[TABLE]
+No. | System | Main Purpose
+1 | Management & Leadership System | Controls company direction, decisions, reporting, and accountability.
+2 | Sales & Client Acquisition System | Manages leads, outreach, meetings, proposals, quotations, and closing.
+3 | Client List & Outreach System | Organizes target clients, priorities, industries, and follow-up plans.
+4 | Finance & Accounting Control System | Controls income, expenses, invoices, receipts, salaries, profit, and cash flow.
+5 | Human Resources & Attendance System | Controls employee files, contracts, attendance, leave, overtime, performance, and discipline.
+6 | Operations, Projects & Task Management System | Controls project codes, tasks, deadlines, quality checks, delivery, and closure.
+7 | Client Experience & Customer Success System | Controls client communication, satisfaction, complaints, and retention.
+8 | Quality Control & Continuous Improvement System | Controls quality checks, rework, corrective actions, and improvement.
+9 | KPI, Reporting & Performance System | Measures department and company performance weekly and monthly.
+10 | Document Control & File Management System | Controls official documents, file codes, versions, approvals, storage, and archives.
+11 | Approval & Decision-Making System | Defines who approves financial, HR, operational, and strategic decisions.
+12 | Risk, Compliance & Business Continuity System | Identifies and controls risks, compliance issues, delays, and business threats.
+13 | IT, Data, Backup & Access Control System | Protects emails, devices, cloud files, passwords, backups, and company access.
+14 | Brand, Marketing & Communication System | Controls brand consistency, public communication, proposals, social media, and client-facing materials.
+[END TABLE]
+
+SECTION 4 - MANAGEMENT STRUCTURE
+Base Agency shall be managed through a clear leadership structure.
+CEO & Founder
+The CEO is responsible for:
+1. Final company direction.
+2. Strategic decisions.
+3. Major financial approvals.
+4. High-value client decisions.
+5. Senior management review.
+6. Company growth and expansion.
+7. Final approval of major policies, contracts, and systems.
+COO / Operations Leadership
+The COO is responsible for:
+1. Daily company operations.
+2. Project execution control.
+3. Department coordination.
+4. Staff follow-up.
+5. Weekly management reporting.
+6. Ensuring tasks are completed on time.
+7. Reporting major issues to the CEO.
+Department Responsible Persons
+Each department or division must have a responsible person who manages:
+1. Daily tasks.
+2. Staff activity.
+3. Department tracker updates.
+4. Department problems.
+5. Weekly reporting.
+6. Implementation of company policies.
+SECTION 5 - DAILY COMPANY ROUTINE
+
+[TABLE]
+Routine | Time | Required Actions
+Morning Routine | 08:00 AM - 09:00 AM | Attendance check; office readiness; review meetings; urgent client follow-ups; active project deadlines; daily task assignment; pending approvals.
+Working Day Routine | 09:00 AM - 04:00 PM | Sales calls; client follow-ups; project implementation; design/technical/production tasks; finance recording; HR tracking; client communication; proposals, quotations, and invoices.
+End-of-Day Routine | 04:00 PM - 05:00 PM | Update trackers; submit daily employee reports; review completed and pending tasks; record client responses; record project progress; prepare next-day priorities; report urgent issues.
+[END TABLE]
+
+SECTION 6 - WEEKLY COMPANY ROUTINE
+Base Agency shall hold a weekly management review meeting. Recommended day: Thursday. Recommended time: 04:00 PM. Chairperson: CEO / COO.
+The weekly meeting shall review:
+1. Sales performance.
+2. Client follow-ups.
+3. Proposals and quotations.
+4. Finance status.
+5. HR attendance and staff issues.
+6. Active projects.
+7. Delayed projects.
+8. Client complaints or feedback.
+9. Quality issues.
+10. Risks and pending decisions.
+11. Next week priorities.
+All decisions and action items must be recorded in the Management Action Tracker.
+SECTION 7 - MONTHLY COMPANY ROUTINE
+At the end of each month, Base Agency shall prepare a monthly management report. The monthly report must be reviewed by management and approved by the CEO.
+1. Executive summary.
+2. Sales results.
+3. Finance income, expenses, and profit/loss.
+4. HR attendance and staff performance.
+5. Operations and project performance.
+6. Client experience summary.
+7. Quality and risk summary.
+8. KPI performance.
+9. Problems and corrective actions.
+10. Next month plan.
+SECTION 8 - SALES OPERATING SYSTEM
+The Sales System shall manage all potential clients from first contact to closed deal.
+Sales System Components
+1. Target client list.
+2. CRM tracker.
+3. Lead status.
+4. Client communication log.
+5. Meeting tracker.
+6. Proposal tracker.
+7. Quotation tracker.
+8. Follow-up tracker.
+9. Closed deal register.
+10. Lost deal register.
+Sales Workflow
+1. Add client to target list.
+2. Classify client by industry and priority.
+3. Contact client by phone, WhatsApp, email, visit, or referral.
+4. Record client response.
+5. Schedule meeting if interested.
+6. Identify client needs.
+7. Send company profile or service package.
+8. Prepare proposal or quotation.
+9. Follow up.
+10. Close deal or mark as lost.
+11. If approved, hand over to Finance and Operations.
+Sales Control Rules
+1. No client shall be ignored after first contact.
+2. Every interested client must have a follow-up date.
+3. Every proposal must be recorded.
+4. Every quotation must be recorded.
+5. Every closed deal must be handed over formally.
+6. Lost clients must include reason lost.
+SECTION 9 - FINANCE OPERATING SYSTEM
+The Finance System shall control all money entering and leaving Base Agency.
+Finance System Components
+1. Income tracker.
+2. Expense tracker.
+3. Invoice register.
+4. Receipt register.
+5. Payment request register.
+6. Petty cash tracker.
+7. Salary register.
+8. Supplier payment register.
+9. Monthly profit and loss summary.
+10. Cash flow summary.
+Finance Workflow
+1. Client approval received.
+2. Invoice prepared.
+3. Payment received.
+4. Receipt issued.
+5. Income recorded.
+6. Project finance status updated.
+7. Expenses recorded with receipt.
+8. Monthly finance report prepared.
+Finance Control Rules
+1. No income shall be unrecorded.
+2. No expense shall be accepted without documentation.
+3. No salary payment shall be made without salary record.
+4. No supplier payment shall be made without approval.
+5. Monthly profit/loss must be reviewed by CEO.
+6. Finance data is confidential.
+SECTION 10 - HUMAN RESOURCES OPERATING SYSTEM
+The HR System shall control employee records, attendance, contracts, leave, performance, and HR discipline.
+HR System Components
+1. Employee register.
+2. Employee file checklist.
+3. Employment agreement register.
+4. Attendance tracker.
+5. Fingerprint attendance register.
+6. Leave tracker.
+7. Overtime tracker.
+8. Probation tracker.
+9. Performance evaluation tracker.
+10. Warning and disciplinary register.
+11. Training tracker.
+12. Exit clearance register.
+HR Workflow
+1. Employee hired.
+2. Employee file created.
+3. Contract signed.
+4. Job description assigned.
+5. Attendance system activated.
+6. Employee onboarding completed.
+7. Daily attendance monitored.
+8. Leave, absence, lateness, and overtime recorded.
+9. Performance reviewed.
+10. HR reports prepared monthly.
+HR Control Rules
+1. Every employee must have a complete file.
+2. Every employee must have a signed contract.
+3. Every employee must have a job description.
+4. Attendance must be recorded daily.
+5. Leave must be approved before absence.
+6. Performance must be reviewed.
+7. HR data is confidential.
+SECTION 11 - OPERATIONS OPERATING SYSTEM
+The Operations System shall manage projects, tasks, responsibilities, deadlines, quality checks, client approvals, and project delivery.
+Operations System Components
+1. Project register.
+2. Project kickoff tracker.
+3. Task assignment tracker.
+4. Work order register.
+5. Project timeline tracker.
+6. Daily task tracker.
+7. Issue and delay register.
+8. Quality check register.
+9. Client approval register.
+10. Delivery handover register.
+11. Project closure register.
+Operations Workflow
+1. Approved project received from Sales.
+2. Project code created.
+3. Scope reviewed.
+4. Timeline prepared.
+5. Tasks assigned.
+6. Work begins.
+7. Progress updated daily.
+8. Quality check completed.
+9. Client approval received.
+10. Delivery handover completed.
+11. Project closed.
+Operations Control Rules
+1. No project shall start without approved scope.
+2. Every project must have a project code.
+3. Every project must have a responsible person.
+4. Every task must have a deadline.
+5. Delays must be recorded.
+6. Quality check is required before delivery.
+7. Client approval must be recorded.
+SECTION 12 - CLIENT EXPERIENCE SYSTEM
+The Client Experience System shall ensure clients are treated professionally before, during, and after service delivery.
+1. Client communication log.
+2. Client meeting notes.
+3. Client needs analysis.
+4. Complaint register.
+5. Feedback register.
+6. Satisfaction tracker.
+7. Repeat client tracker.
+8. Client retention tracker.
+Client Experience Rules
+1. Clients must receive professional communication.
+2. Client messages must be answered on time.
+3. Client requirements must be documented.
+4. Complaints must be recorded and resolved.
+5. Client approval must be documented.
+6. Feedback must be collected after delivery.
+7. Important clients must receive management attention.
+SECTION 13 - QUALITY CONTROL SYSTEM
+The Quality Control System shall ensure that all work delivered by Base Agency meets professional standards.
+Quality control must apply to designs, social media content, printing work, websites, IT services, events, interior design, AV systems, security and CCTV projects, proposals, quotations, and official documents.
+Quality Control Rules
+1. Work must be checked before sending to client.
+2. Important work must be reviewed by a responsible person.
+3. Mistakes must be corrected before delivery.
+4. Rework must be recorded.
+5. Repeated mistakes must be reviewed by management.
+6. Quality issues must have corrective action.
+SECTION 14 - KPI & PERFORMANCE SYSTEM
+Base Agency shall measure performance through KPIs. The following KPIs shall be reviewed weekly and monthly.
+
+[TABLE]
+Area | KPIs
+Sales KPIs | Leads; contacted clients; meetings; proposals; quotations; closed deals; conversion rate; monthly sales value.
+Finance KPIs | Monthly income; monthly expenses; net profit/loss; cash balance; pending payments; salary cost; fixed monthly cost.
+HR KPIs | Attendance rate; late arrivals; absences; leave balance; completed employee files; performance evaluation results.
+Operations KPIs | Active projects; completed projects; delayed projects; completed tasks; delayed tasks; quality checks; client approvals.
+[END TABLE]
+
+SECTION 15 - DOCUMENT CONTROL SYSTEM
+Base Agency shall control all official documents through document codes, versions, approvals, and storage locations.
+Document Control Rules
+1. Every official document must have a document code.
+2. Every document must have a title.
+3. Every document must have a version number.
+4. Every document must have an owner.
+5. Every document must have a storage location.
+6. Updated documents must replace old versions.
+7. Old documents must be archived.
+8. Approved documents must not be changed without permission.
+Main Document Status Options
+• Draft
+• Under Review
+• Approved
+• Active
+• Archived
+• Replaced
+• Cancelled
+SECTION 16 - APPROVAL SYSTEM
+Base Agency shall use a formal approval system to protect authority, accountability, finance, clients, employees, and company decisions.
+
+[TABLE]
+Approval Level | Approval Required For
+CEO Approval | Major financial decisions; high-value proposals; contracts; hiring and termination; salary changes; company policy changes; strategic partnerships; major purchases; discounts above approved limit; legal matters.
+COO / Management Approval | Daily operational decisions; project task distribution; project timeline changes; internal workflow decisions; department coordination; routine client delivery issues.
+Finance Approval | Expenses; supplier payments; petty cash use; invoices and receipts; salary payment preparation.
+[END TABLE]
+
+SECTION 17 - COMMUNICATION SYSTEM
+Base Agency shall use professional communication standards for all internal and external communication.
+Internal Communication
+Internal communication shall be clear, respectful, documented, and related to work. Approved channels include email, WhatsApp groups, internal memos, meetings, and task trackers.
+External Communication
+External communication with clients, suppliers, partners, and candidates must be professional. Official external communication must use company email, company WhatsApp number, official letterhead, approved proposal and quotation templates, and proper company signature.
+SECTION 18 - IT, DATA & BACKUP SYSTEM
+Base Agency shall protect company data and digital files. The IT system must include company email accounts, cloud storage, file backup, access control, password management, device tracking, antivirus/security protection, and website/domain management.
+IT Control Rules
+1. Company files must not be stored only on personal devices.
+2. Important files must be backed up.
+3. Access must be limited by role.
+4. Passwords must not be shared casually.
+5. Former employees must have access removed.
+6. Confidential data must be protected.
+SECTION 19 - RISK MANAGEMENT SYSTEM
+Base Agency shall identify, record, and control risks. Risk categories include financial risk, client risk, project delay risk, HR risk, legal risk, IT and data risk, brand reputation risk, and operational risk.
+Risk Control Rules
+1. Major risks must be reported to management.
+2. Every serious risk must have an action plan.
+3. Delayed projects must be treated as risk.
+4. Financial losses must be reviewed.
+5. Client complaints must be monitored.
+6. Risk status must be reviewed monthly.
+SECTION 20 - BRAND & MARKETING SYSTEM
+Base Agency shall maintain a consistent brand identity in all communication, proposals, social media, documents, uniforms, office materials, and presentations.
+Brand control must include logo usage, color system, typography, social media style, proposal design, company profile design, staff email signature, and public communication tone. No public material should be published without review.
+SECTION 21 - COMPANY FILES REQUIRED FOR ACTIVE OPERATION
+The following files must be active and used:
+
+[TABLE]
+No. | Required File
+1 | BA-SALES-TRACKER-2026
+2 | BA-FIN-TRACKER-2026
+3 | BA-HR-TRACKER-2026
+4 | BA-OPS-TRACKER-2026
+5 | BA-CLIENT-LIST-2026
+6 | BA-SERVICE-PACKAGES-2026
+7 | BA-MANAGEMENT-DASHBOARD-2026
+8 | BA-MASTER-INDEX-2026
+9 | BA-IMP-2026-001
+10 | BA-COMPANY-SYSTEM-2026
+[END TABLE]
+
+SECTION 22 - COMPANY OPERATING DASHBOARD
+The Company Operating Dashboard shall summarize sales performance, finance status, HR status, operations status, client satisfaction, quality issues, risks, pending decisions, weekly actions, and monthly performance. The dashboard must be reviewed weekly by management.
+SECTION 23 - IMPLEMENTATION ORDER
+
+[TABLE]
+Phase | Implementation Items
+Phase 1 - Core Control | HR employee files; attendance system; Sales CRM; Finance tracker; Operations tracker.
+Phase 2 - Management Control | Management dashboard; weekly meeting system; monthly report system; KPI system; decision register.
+Phase 3 - Quality & Growth | Client feedback system; quality control system; risk management system; brand governance system; continuous improvement system.
+[END TABLE]
+
+SECTION 24 - SYSTEM SUCCESS RULES
+Base Agency’s company operating system shall be considered successful when:
+1. Every employee knows their responsibility.
+2. Every client is recorded.
+3. Every project is tracked.
+4. Every payment is recorded.
+5. Every expense is documented.
+6. Every employee file is complete.
+7. Every department reports weekly.
+8. Every problem has an action item.
+9. Every month has a management report.
+10. CEO can see the full company status from one dashboard.
+SECTION 25 - RESPONSIBILITY MATRIX
+
+[TABLE]
+System Area | Responsible Person / Department | Review By
+Management Dashboard | COO / Administration | CEO
+Sales System | Sales / Client Relations | CEO / COO
+Client List | Sales / Client Relations | CEO / COO
+Finance System | Finance / Office Admin | CEO
+HR System | HR / Office Admin | CEO / COO
+Operations System | COO / Operations | CEO
+Client Experience | Sales / Client Relations | CEO / COO
+Quality Control | Operations / Management | CEO
+Document Control | Administration | CEO / COO
+IT & Backup | IT Responsible Person | CEO / COO
+Brand Control | Marketing / Brand Team | CEO / COO
+Risk Management | Management | CEO
+[END TABLE]
+
+SECTION 26 - FILE STORAGE
+This manual shall be saved in:
+BASE AGENCY > 11 - Master Corporate Manual & Company-Wide Control
+Recommended file name: BA-COMPANY-SYSTEM-2026 - Base Agency Complete Company Operating System Manual - Version 1.0
+Additional copies may be saved in: BASE AGENCY > 10 - Corporate Governance, 20 - Corporate Strategy, Annual Planning & Business Growth, and 07 - KPI & Performance.
+SECTION 27 - FINAL DECLARATION
+This Complete Company Operating System Manual is approved as the official internal operating system manual of Base Agency.
+It defines how Base Agency shall manage leadership, sales, clients, finance, human resources, operations, projects, tasks, client experience, quality, KPIs, documents, approvals, communication, IT, risk, brand, dashboard control, reporting, and continuous improvement.
+All managers, employees, departments, divisions, and authorized persons must follow this manual to ensure Base Agency operates professionally, systematically, and without operational gaps.
+APPROVED BY
+Omar Abbas Abdulrahman
+CEO & Founder
+Base Agency
+Signature: ___________________________
+Company Stamp: ______________________
+Date: _______________________________

@@ -1,0 +1,320 @@
+SOURCE FILE: BA-CLIENT-LIST-2026_Erbil_Target_Client_List_Outreach_Plan_V1.0.docx
+EXTRACTED: 2026-06-24T21:18:00
+
+BASE AGENCY
+ERBIL TARGET CLIENT LIST & OUTREACH PLAN
+Version 1.0
+
+[TABLE]
+Field | Details
+Company Name | Base Agency
+Head Office | Empire Business Tower, Building T3 - Floor 19 - Office 4, Erbil, Kurdistan Region of Iraq
+Email | info@baseagy.com
+Website | www.baseagy.com
+Phone | +964 750 075 6565 / +964 775 075 6565
+Slogan | Excellence is our promise. Quality is never optional.
+[END TABLE]
+
+DOCUMENT CONTROL
+
+[TABLE]
+Document Code | Document Title | Version | Classification | Approved By
+BA-CLIENT-LIST-2026 | Erbil Target Client List & Outreach Plan | 1.0 | Internal / Sales Confidential | Omar Abbas Abdulrahman, CEO & Founder
+[END TABLE]
+
+SECTION 1 - PURPOSE
+The purpose of this Erbil Target Client List & Outreach Plan is to help Base Agency identify, organize, prioritize, contact, follow up, and convert potential clients in Erbil into active business opportunities.
+This document shall be used by Sales, Client Relations, Management, Marketing, and Operations to build a professional client database and execute a structured outreach plan.
+SECTION 2 - OUTREACH OBJECTIVES
+Build a target client list in Erbil.
+Identify high-potential business sectors.
+Contact potential clients professionally.
+Schedule meetings.
+Send company profile, proposals, and quotations.
+Track follow-ups.
+Convert leads into clients.
+Create long-term client relationships.
+Increase monthly revenue.
+Support Base Agency’s market presence in Kurdistan.
+SECTION 3 - PRIORITY SERVICE PACKAGES
+
+[TABLE]
+Package | Suitable Clients | Main Services
+Social Media Management | Clinics, restaurants, cafes, beauty centers, real estate companies, schools, retail shops | Monthly content plan, designs, reels, captions, posting, ads setup, monthly report
+Printing & Branding | Restaurants, clinics, offices, schools, hotels, new businesses | Business cards, brochures, menus, stickers, signage, company profile, packaging
+Website & IT Services | Corporate companies, clinics, hotels, schools, real estate companies | Website, business email, hosting, IT setup, network setup, CCTV/security support
+Events & Production | Companies, universities, hotels, brands, exhibitions, launch ceremonies | Corporate events, opening ceremonies, LED screen, sound, lighting, photography, videography
+Interior Design & Fit-Out | Clinics, restaurants, offices, retail shops, beauty centers, showrooms | Interior concept, fit-out planning, furniture layout, finishing coordination
+CCTV, Security & Access Control | Offices, warehouses, clinics, schools, hotels, residential projects | CCTV, access control, intercom, monitoring, network/security infrastructure
+[END TABLE]
+
+SECTION 4 - TARGET CLIENT CATEGORIES IN ERBIL
+
+[TABLE]
+No. | Target Category | Main Opportunity
+1 | Clinics and medical centers | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+2 | Dental clinics | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+3 | Beauty clinics | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+4 | Pharmacies | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+5 | Hospitals and healthcare centers | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+6 | Restaurants | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+7 | Cafes | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+8 | Hotels | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+9 | Real estate companies | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+10 | Construction companies | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+11 | Interior design companies | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+12 | Retail shops | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+13 | Fashion stores | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+14 | Gyms and fitness centers | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+15 | Schools and institutes | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+16 | Universities and training centers | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+17 | Car dealerships and showrooms | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+18 | Corporate offices | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+19 | Logistics and delivery companies | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+20 | Technology and IT companies | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+21 | Event halls and wedding halls | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+22 | Supermarkets and markets | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+23 | Travel agencies | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+24 | Law firms and accounting offices | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+25 | Startups and new businesses | Social Media / Website / Branding / Printing / IT / Events / Security based on need
+[END TABLE]
+
+SECTION 5 - TARGET CLIENT PRIORITY SYSTEM
+
+[TABLE]
+Priority | Definition | Action
+High | Active business, visible marketing needs, budget potential, clear service requirement, reachable decision-maker. | Contact immediately, request meeting, send company profile, prepare proposal.
+Medium | Possible future need, needs more explanation, unclear budget, decision-maker not immediately available. | Follow up within 7 days and keep active in CRM.
+Low | Not ready, no clear need, weak contact information, or future follow-up only. | Keep in database and follow up later.
+[END TABLE]
+
+SECTION 6 - MASTER TARGET CLIENT LIST
+The target client list should be created in Excel using the following structure. The first 100 target clients should be added during the first week of outreach.
+
+[TABLE]
+Client Code | Company / Client Name | Industry | Location | Phone | Instagram / Website | Service Opportunity | Priority | Status | Next Follow-Up
+BA-TCL-2026-001 |  | Clinic / Restaurant / Real Estate / Other | Erbil |  |  | Social Media / Website / Printing / Other | High / Medium / Low | New | 
+BA-TCL-2026-002 |  | Clinic / Restaurant / Real Estate / Other | Erbil |  |  | Social Media / Website / Printing / Other | High / Medium / Low | New | 
+BA-TCL-2026-003 |  | Clinic / Restaurant / Real Estate / Other | Erbil |  |  | Social Media / Website / Printing / Other | High / Medium / Low | New | 
+BA-TCL-2026-004 |  | Clinic / Restaurant / Real Estate / Other | Erbil |  |  | Social Media / Website / Printing / Other | High / Medium / Low | New | 
+BA-TCL-2026-005 |  | Clinic / Restaurant / Real Estate / Other | Erbil |  |  | Social Media / Website / Printing / Other | High / Medium / Low | New | 
+[END TABLE]
+
+SECTION 7 - FIRST 100 TARGET CLIENT DISTRIBUTION
+
+[TABLE]
+Sector | Number of Target Clients | Main Service Opportunity
+Clinics & Medical Centers | 15 | Social Media, Website, Branding, Printing
+Restaurants & Cafes | 15 | Social Media, Printing, Branding, Interior
+Real Estate & Construction | 10 | Website, Branding, Social Media, Signage
+Beauty Clinics & Salons | 10 | Social Media, Branding, Printing, Interior
+Hotels & Hospitality | 8 | Events, AV, Website, Social Media
+Schools & Institutes | 8 | Website, Printing, Branding, Events
+Retail Stores | 8 | Social Media, Printing, Branding
+Gyms & Fitness Centers | 6 | Social Media, Branding, Printing
+Corporate Offices | 6 | Website, IT, Security, Branding
+Car Showrooms | 5 | Social Media, Video, Branding
+Event Halls | 4 | AV, Events, Social Media
+Pharmacies | 3 | Branding, Printing, Signage
+Other High-Potential Businesses | 2 | Based on need
+Total | 100 | 
+[END TABLE]
+
+SECTION 8 - CLIENT STATUS OPTIONS
+
+[TABLE]
+Status | Meaning
+New | Client added but not contacted yet
+Contacted | Initial call/message/email completed
+Interested | Client showed interest
+Not Interested | Client rejected current offer
+Meeting Scheduled | Meeting booked
+Meeting Completed | Meeting completed
+Proposal Required | Proposal needs to be prepared
+Proposal Sent | Proposal sent to client
+Quotation Sent | Quotation sent to client
+Waiting Client | Waiting for client response
+Negotiation | Scope, price, or terms under discussion
+Approved | Client approved proposal/quotation
+Converted to Client | Client became active customer
+Follow-Up Later | Contact later
+Lost | Opportunity lost
+[END TABLE]
+
+SECTION 9 - DAILY, WEEKLY & 30-DAY OUTREACH TARGETS
+
+[TABLE]
+Activity | Daily Target | Weekly Target | 30-Day Minimum Target
+New target clients added | 10 | 50 | 100
+Phone calls | 10 | 50 | 80 contacted
+WhatsApp messages | 10 | 50 | 120 follow-ups
+Meeting requests | 3 | 15 | 15 meetings scheduled
+Meetings completed | 1-2 | 3-5 | 10 completed
+Proposals / quotations sent | 1-3 | 5 each | 10 proposals / 10 quotations
+New clients closed | - | 1-2 | 2-5 deals
+Monthly retainer clients | - | - | 1-3
+[END TABLE]
+
+SECTION 10 - OUTREACH METHODS
+Phone call
+WhatsApp message
+Email
+Instagram direct message
+LinkedIn message
+Office visit
+Referral introduction
+Meeting invitation
+Proposal submission
+Follow-up message
+Important communication must be recorded in the CRM tracker.
+SECTION 11 - PHONE CALL SCRIPT
+Hello, this is Base Agency from Erbil.
+We are contacting selected businesses in Erbil to introduce our professional services in social media management, branding, printing, website development, IT solutions, events, interior design, and security systems.
+May I know who is responsible for marketing or business development in your company?
+We would be happy to send a short company profile and discuss how Base Agency can support your business. Thank you.
+SECTION 12 - WHATSAPP INTRODUCTION MESSAGE
+Hello,
+This is Base Agency, based in Erbil.
+We provide professional services in social media management, marketing, branding, printing, website development, IT solutions, events, interior design, AV systems, and security systems.
+We would be happy to share our company profile and discuss how we can support your business.
+Thank you.Base AgencyEmpire Business Tower, T3 - Floor 19 - Office 4www.baseagy.com+964 750 075 6565 / +964 775 075 6565
+SECTION 13 - FOLLOW-UP & MEETING REQUEST MESSAGES
+
+[TABLE]
+Template | Message
+WhatsApp Follow-Up | Hello, this is Base Agency following up regarding our previous message. We would be happy to arrange a short meeting or send our company profile and service packages for review. Please let us know if you are interested. Thank you.
+Meeting Request | Thank you for your interest in Base Agency. We would be pleased to schedule a short meeting to understand your business needs and explain how our services can support your company. Date: ___ Time: ___ Location: Base Agency Office / Client Office / Online.
+Proposal Follow-Up | We are following up regarding the proposal / quotation sent by Base Agency for: ________. Kindly let us know if you have reviewed it or need clarification.
+[END TABLE]
+
+SECTION 14 - EMAIL INTRODUCTION TEMPLATE
+Subject: Introduction to Base Agency Services
+Dear ______________________________,
+I hope you are doing well.
+We are pleased to introduce Base Agency, a multidisciplinary corporate agency based in Erbil, Kurdistan Region of Iraq.
+Base Agency provides professional services in social media management, marketing, branding, printing, website development, IT solutions, events, interior design, AV systems, security systems, artificial intelligence, data analytics, and digital transformation.
+We would be happy to share our company profile and discuss how Base Agency can support your business needs.
+Best regards,Base Agency
+SECTION 15 - CLIENT MEETING PREPARATION CHECKLIST
+Client name reviewed
+Industry reviewed
+Service opportunity identified
+Company profile ready
+Service package ready
+Price range prepared
+Portfolio / samples prepared
+Meeting purpose clear
+Questions prepared
+Follow-up date planned
+SECTION 16 - CLIENT MEETING QUESTIONS
+What services are you currently looking for?
+What is your main business challenge?
+Do you currently have social media management?
+Do you have a website?
+Do you need printing or branding materials?
+Do you have upcoming events or campaigns?
+Do you need interior design, IT, CCTV, AV, or technical solutions?
+What is your preferred timeline?
+Who is the decision-maker?
+Would you like us to prepare a proposal or quotation?
+SECTION 17 - CLIENT NEED ANALYSIS FORM
+
+[TABLE]
+Field | Details
+Client Name | 
+Industry | 
+Meeting Date | ____ / ____ / ______
+Sales Representative | 
+Client Needs | Social Media / Marketing / Branding / Printing / Website / IT / Events / Interior / Networking / AV / Security / AI / Other
+Client Pain Points | 
+Budget Level | Low / Medium / High / Not confirmed
+Proposal Required | Yes / No
+Next Step | 
+[END TABLE]
+
+SECTION 18 - OUTREACH FOLLOW-UP REGISTER
+
+[TABLE]
+Follow-Up Code | Client Code | Client Name | Last Contact Date | Method | Discussion Summary | Next Action | Next Follow-Up Date | Status
+BA-FU-2026-001 |  |  |  | Phone / WhatsApp / Email / Meeting |  |  |  | Open
+BA-FU-2026-002 |  |  |  | Phone / WhatsApp / Email / Meeting |  |  |  | Open
+BA-FU-2026-003 |  |  |  | Phone / WhatsApp / Email / Meeting |  |  |  | Open
+[END TABLE]
+
+SECTION 19 - TARGET CLIENT RESEARCH CHECKLIST
+Company name
+Industry
+Location
+Phone number
+Email address
+Instagram page
+Website
+Contact person
+Decision-maker name if available
+Service opportunity
+Priority level
+First contact date
+Next follow-up date
+SECTION 20 - FIRST WEEK OUTREACH PLAN
+
+[TABLE]
+Day | Required Actions
+Day 1 | Create 100 target client list structure; add first 25 clients; prepare WhatsApp introduction; prepare company profile PDF; prepare service package PDF.
+Day 2 | Add another 25 clients; contact first 10 clients; record all responses in CRM; schedule meetings where possible.
+Day 3 | Add another 25 clients; contact 10 more clients; follow up with Day 2 contacts; send company profile to interested clients.
+Day 4 | Add final 25 clients; contact 10 more clients; schedule meetings; prepare first proposals.
+Day 5 | Review all contacted clients; follow up with interested clients; send proposals or quotations; prepare weekly sales report.
+[END TABLE]
+
+SECTION 21 - WEEKLY OUTREACH REPORT
+
+[TABLE]
+Indicator | Result
+New Clients Added | 
+Clients Contacted | 
+WhatsApp Messages Sent | 
+Calls Made | 
+Emails Sent | 
+Meetings Scheduled | 
+Meetings Completed | 
+Proposals Sent | 
+Quotations Sent | 
+Clients Interested | 
+Clients Not Interested | 
+Deals Closed | 
+[END TABLE]
+
+SECTION 22 - CLIENT CONVERSION RULES
+Every target client must be recorded.
+Every contacted client must have a status.
+Every interested client must have a follow-up date.
+Every meeting must be recorded.
+Every proposal must be recorded in CRM.
+Every quotation must be recorded in CRM.
+Every client approval must be documented.
+Every closed deal must be handed over to Finance and Operations.
+Lost clients must include reason lost.
+Sales activity must be reviewed weekly.
+SECTION 23 - RESPONSIBILITIES
+
+[TABLE]
+Role | Responsibilities
+CEO & Founder | Approve high-value client opportunities, support important client meetings, review weekly outreach performance, approve strategic pricing and major proposals.
+Sales / Client Relations | Build target client list, contact potential clients, schedule meetings, send company profile/proposals/quotations, update CRM, follow up, close deals.
+Marketing / Brand | Prepare company profile, service package designs, portfolio samples, social media and brand presentation materials.
+Finance | Review pricing where required, prepare invoices after client approval, record client payments.
+Operations | Receive approved projects from Sales, review scope and deadlines, start implementation after handover.
+[END TABLE]
+
+SECTION 24 - FILE STORAGE
+This document shall be saved in:
+BASE AGENCY > 05 - Sales > 02 - Lead Management & CRM
+Recommended file name: BA-CLIENT-LIST-2026 - Erbil Target Client List & Outreach Plan - Version 1.0
+Additional copies may be saved in: BASE AGENCY > 05 - Sales > 04 - Sales Pipeline and 07 - Sales Reports.
+SECTION 25 - FINAL DECLARATION
+This Erbil Target Client List & Outreach Plan is approved as the official client targeting and outreach planning document of Base Agency.
+It defines target client categories, priority system, client list structure, first 100 target distribution, outreach methods, phone scripts, WhatsApp messages, email templates, meeting preparation, client need analysis, follow-up register, weekly outreach reporting, client conversion rules, responsibilities, and file storage.
+All sales staff, client relations staff, managers, marketing staff, finance staff, operations staff, and authorized persons must use this document to organize target clients, perform outreach, track follow-ups, and convert potential clients into active business opportunities.
+APPROVED BY
+Omar Abbas AbdulrahmanCEO & FounderBase Agency
+Signature: ___________________________ Company Stamp: ______________________ Date: _______________________________

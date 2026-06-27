@@ -1,43 +1,73 @@
-# Next.js on Netlify Platform Starter
+# Base Agency Accounting CRM System
 
-[Live Demo](https://nextjs-platform-starter.netlify.app/)
+A Next.js, TypeScript, Tailwind CSS, Prisma, and PostgreSQL accounting CRM for Base Agency.
 
-A modern starter based on Next.js 16 (App Router), Tailwind, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blob Store).
+## Setup
 
-In this site, Netlify Core Primitives are used both implictly for running Next.js features (e.g. Route Handlers, image optimization via `next/image`, and more) and also explicitly by the user code.
+1. Install dependencies:
+   ```bash
+   pnpm install
+   ```
+2. Copy environment variables:
+   ```bash
+   cp .env.example .env.local
+   ```
+3. Update `DATABASE_URL` and `BASE_AGENCY_API_KEY`.
+4. Create the local PostgreSQL database:
+   ```bash
+   createdb base_agency_crm
+   ```
+   Example local database URL:
+   ```env
+   DATABASE_URL="postgresql://postgres:password@localhost:5432/base_agency_crm?schema=public"
+   ```
+5. Generate Prisma Client:
+   ```bash
+   pnpm prisma:generate
+   ```
+6. Create database tables:
+   ```bash
+   pnpm prisma:migrate
+   ```
+7. Seed sales sections and admin user:
+   ```bash
+   pnpm db:seed
+   ```
+8. Run checks:
+   ```bash
+   pnpm typecheck
+   pnpm lint
+   pnpm build
+   ```
+9. Run the app:
+   ```bash
+   pnpm dev
+   ```
+   Local URL:
+   ```text
+   http://localhost:4040
+   ```
 
-Implicit usage means you're using any Next.js functionality and everything "just works" when deployed - all the plumbing is done for you. Explicit usage is framework-agnostic and typically provides more features than what Next.js exposes.
+## Customer Import API
 
-## Deploying to Netlify
+Endpoint: `POST http://localhost:4040/api/customers/import`
 
-Click the button below to deploy this template to your Netlify account.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-platform-starter)
-
-## Developing Locally
-
-1. Clone this repository, then run `npm install` in its root directory.
-
-2. For the starter to have full functionality locally (e.g. edge functions, blob store), please ensure you have an up-to-date version of Netlify CLI. Run:
-
+Header:
+```http
+x-api-key: your-api-key
 ```
-npm install netlify-cli@latest -g
+
+Body:
+```json
+{
+  "full_name": "Customer Name",
+  "phone": "+9647500000000",
+  "whatsapp": "+9647500000000",
+  "email": "customer@example.com",
+  "address": "Erbil",
+  "source": "website",
+  "service_interest": "Website Development",
+  "status": "NEW",
+  "notes": "Imported from website contact form"
+}
 ```
-
-3. Link your local repository to the deployed Netlify site. This will ensure you're using the same runtime version for both local development and your deployed site.
-
-```
-netlify link
-```
-
-4. Then, run the Next.js development server via Netlify CLI:
-
-```
-netlify dev
-```
-
-If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
-
-## Resources
-
-- Check out the [Next.js on Netlify docs](https://docs.netlify.com/frameworks/next-js/overview/)

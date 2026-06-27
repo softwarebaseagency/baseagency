@@ -1,3 +1,10 @@
 [build]
+  command = "corepack pnpm build"
   publish = ".next"
-  command = "npm run build"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Netlify's automatically applied OpenNext adapter handles App Router pages,
+# SSR, route handlers under /app/api, dynamic routes, and image optimization.
+# Do not add an SPA catch-all redirect or enable a static Next.js export.

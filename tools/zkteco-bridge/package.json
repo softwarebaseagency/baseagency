@@ -1,0 +1,13 @@
+{
+  "name": "base-agency-zkteco-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local ZKTeco SpeedFace ADMS/iClock bridge for Base Agency.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

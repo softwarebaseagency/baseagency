@@ -1,30 +1,44 @@
 {
-  "name": "next-netlify-platform-starter",
-  "version": "0.1.0",
-  "type": "module",
+  "name": "base-agency-accounting-crm-system",
+  "version": "1.0.0",
   "private": true,
+  "packageManager": "pnpm@11.8.0",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "node scripts/dev-server.js",
+    "build": "prisma generate && next build",
+    "start": "next start -p 4040",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev",
+    "prisma:studio": "prisma studio",
+    "db:seed": "tsx prisma/seed.ts"
   },
   "dependencies": {
-    "@netlify/blobs": "^10.7.9",
-    "blobshape": "^1.0.0",
-    "bright": "^1.0.0",
-    "markdown-to-jsx": "^7.7.16",
-    "next": "^16.0.8",
-    "react": "19.2.7",
-    "react-dom": "19.2.7",
-    "unique-names-generator": "^4.7.1"
+    "@prisma/client": "^5.22.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.468.0",
+    "next": "^14.2.23",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.5.5",
+    "zod": "^3.24.1"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.15",
-    "babel-plugin-react-compiler": "^1.0.0",
-    "eslint": "9.39.4",
-    "eslint-config-next": "^16.0.8",
-    "postcss": "^8.4.36",
-    "tailwindcss": "^4.1.15"
+    "@types/node": "^20.17.10",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.23",
+    "postcss": "^8.4.49",
+    "prisma": "^5.22.0",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
   }
 }

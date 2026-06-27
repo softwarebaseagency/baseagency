@@ -1,0 +1,397 @@
+SOURCE FILE: BA-SALES-TRACKER-2026_CRM_Sales_Pipeline_Tracker_V1.0.docx
+EXTRACTED: 2026-06-24T21:18:00
+
+BASE AGENCY
+CRM & SALES PIPELINE TRACKER
+Version 1.0
+Company Name: Base Agency
+Head Office: Empire Business Tower, Building T3 - Floor 19 - Office 4, Erbil, Kurdistan Region of Iraq
+Email: info@baseagy.com | Website: www.baseagy.com
+Phone: +964 750 075 6565 / +964 775 075 6565
+Excellence is our promise. Quality is never optional.
+DOCUMENT CONTROL
+
+[TABLE]
+Field | Details
+Document Code | BA-SALES-TRACKER-2026
+Document Title | CRM & Sales Pipeline Tracker
+Version | 1.0
+Classification | Internal / Sales Confidential
+Prepared For | Base Agency
+Approved By | Omar Abbas Abdulrahman, CEO & Founder
+[END TABLE]
+
+SECTION 1 - PURPOSE
+The purpose of this CRM & Sales Pipeline Tracker is to help Base Agency record, manage, follow up, and convert leads into paying clients.
+This tracker shall be used to control all sales activities, including client information, lead source, service requirements, meetings, proposals, quotations, follow-ups, deal status, expected value, closing date, and final sales results.
+SECTION 2 - SALES OBJECTIVES
+1. Record all potential clients.
+2. Track every sales opportunity.
+3. Follow up with clients professionally.
+4. Know which clients need meetings.
+5. Know which clients received proposals or quotations.
+6. Track expected sales value.
+7. Improve closing rate.
+8. Avoid losing clients due to weak follow-up.
+9. Prepare weekly sales reports.
+10. Build a professional client database.
+SECTION 3 - CRM STATUS DEFINITIONS
+
+[TABLE]
+Status | Meaning
+New Lead | New potential client added to CRM
+Contacted | Client has been contacted by phone, WhatsApp, email, or visit
+Interested | Client showed interest in Base Agency services
+Meeting Scheduled | Meeting has been arranged
+Meeting Completed | Meeting was completed
+Proposal Required | Client needs a proposal
+Proposal Sent | Proposal was sent to the client
+Quotation Sent | Quotation was sent to the client
+Waiting Client | Waiting for client response
+Negotiation | Price, scope, or terms are being discussed
+Approved | Client approved the proposal / quotation
+Invoice Required | Finance must issue invoice
+Project Started | Approved work has started
+Closed Won | Deal was successfully closed
+Closed Lost | Deal was lost
+Follow-Up Later | Client may be contacted later
+Not Qualified | Lead is not suitable
+[END TABLE]
+
+SECTION 4 - LEAD SOURCE OPTIONS
+1. Website
+2. Instagram
+3. Facebook
+4. LinkedIn
+5. TikTok
+6. WhatsApp
+7. Phone call
+8. Referral
+9. Walk-in
+10. Existing client
+11. Event / Exhibition
+12. Sales visit
+13. Google search
+14. Personal network
+15. Other
+SECTION 5 - SERVICE CATEGORY OPTIONS
+1. Events Management & Production
+2. Marketing, Advertising & Brand Communications
+3. Print Production & Promotional Solutions
+4. Architecture, Interior Design & Fit-Out
+5. IT, Software Development & Cybersecurity
+6. Robotics, Automation & Intelligent Systems
+7. Networking, Telecommunications & Infrastructure
+8. Audio Visual, Broadcasting & Media Systems
+9. Security, Surveillance & Access Control Systems
+10. Artificial Intelligence, Data Analytics & Digital Transformation
+SECTION 6 - MASTER CRM TRACKER TABLE
+
+[TABLE]
+Lead Code | Date Added | Client / Company Name | Contact Person | Phone | Service Required | Estimated Value | Priority | Status | Next Follow-Up | Responsible
+BA-LEAD-2026-001 |  |  |  |  |  |  | High / Medium / Low | New Lead |  | 
+BA-LEAD-2026-002 |  |  |  |  |  |  | High / Medium / Low | New Lead |  | 
+BA-LEAD-2026-003 |  |  |  |  |  |  | High / Medium / Low | New Lead |  | 
+[END TABLE]
+
+SECTION 7 - SALES PIPELINE TRACKER
+
+[TABLE]
+Deal Code | Lead Code | Client Name | Service / Project | Pipeline Stage | Deal Value | Probability % | Expected Closing Date | Responsible Person | Status
+BA-DEAL-2026-001 | BA-LEAD-2026-001 |  |  | New Lead |  | 10% |  |  | Open
+BA-DEAL-2026-002 | BA-LEAD-2026-002 |  |  | Proposal Sent |  | 50% |  |  | Open
+BA-DEAL-2026-003 | BA-LEAD-2026-003 |  |  | Negotiation |  | 70% |  |  | Open
+[END TABLE]
+
+SECTION 8 - PIPELINE STAGES AND PROBABILITY
+
+[TABLE]
+Pipeline Stage | Probability
+New Lead | 10%
+Contacted | 20%
+Interested | 30%
+Meeting Scheduled | 40%
+Meeting Completed | 45%
+Proposal Sent | 50%
+Quotation Sent | 60%
+Negotiation | 70%
+Approved | 90%
+Closed Won | 100%
+Closed Lost | 0%
+[END TABLE]
+
+SECTION 9 - CLIENT CONTACT LOG
+
+[TABLE]
+Contact Log Code | Lead Code | Client Name | Date | Method | Discussion Summary | Next Action | Next Follow-Up | Responsible
+BA-CLOG-2026-001 |  |  |  | Phone / WhatsApp / Email / Meeting |  |  |  | 
+BA-CLOG-2026-002 |  |  |  | Phone / WhatsApp / Email / Meeting |  |  |  | 
+BA-CLOG-2026-003 |  |  |  | Phone / WhatsApp / Email / Meeting |  |  |  | 
+[END TABLE]
+
+SECTION 10 - MEETING TRACKER
+
+[TABLE]
+Meeting Code | Lead Code | Client Name | Meeting Date | Time | Location | Meeting Purpose | Meeting Status | Responsible Person | Follow-Up Required
+BA-MTG-2026-001 |  |  |  |  |  |  | Scheduled / Completed / Cancelled |  | Yes / No
+BA-MTG-2026-002 |  |  |  |  |  |  | Scheduled / Completed / Cancelled |  | Yes / No
+[END TABLE]
+
+SECTION 11 - PROPOSAL TRACKER
+
+[TABLE]
+Proposal Code | Lead Code | Client Name | Project / Service | Proposal Value | Date Sent | Valid Until | Status | Follow-Up Date
+BA-PRO-2026-001 |  |  |  |  |  |  | Draft / Sent / Approved / Rejected / Expired | 
+BA-PRO-2026-002 |  |  |  |  |  |  | Draft / Sent / Approved / Rejected / Expired | 
+[END TABLE]
+
+SECTION 12 - QUOTATION TRACKER
+
+[TABLE]
+Quotation Code | Lead Code | Client Name | Service / Item | Amount | Date Sent | Valid Until | Status | Converted to Invoice
+BA-QTN-2026-001 |  |  |  |  |  |  | Draft / Sent / Approved / Rejected / Expired | Yes / No
+BA-QTN-2026-002 |  |  |  |  |  |  | Draft / Sent / Approved / Rejected / Expired | Yes / No
+[END TABLE]
+
+SECTION 13 - CLOSED DEAL REGISTER
+
+[TABLE]
+Deal Code | Client Name | Service / Project | Final Value | Closing Date | Payment Status | Project Started | Responsible Person | Notes
+BA-DEAL-2026-001 |  |  |  |  | Paid / Partially Paid / Pending | Yes / No |  | 
+BA-DEAL-2026-002 |  |  |  |  | Paid / Partially Paid / Pending | Yes / No |  | 
+[END TABLE]
+
+SECTION 14 - LOST DEAL REGISTER
+
+[TABLE]
+Lost Deal Code | Client Name | Service / Project | Estimated Value | Lost Date | Reason Lost | Responsible Person | Future Follow-Up
+BA-LOST-2026-001 |  |  |  |  | Price / No Response / Competitor / Not Interested / Other |  | Yes / No
+[END TABLE]
+
+SECTION 15 - DAILY SALES ACTIVITY TRACKER
+
+[TABLE]
+Date | Salesperson | Calls Made | WhatsApp Messages | Emails Sent | Meetings Scheduled | Proposals Sent | Quotations Sent | Follow-Ups Completed | Notes
+[END TABLE]
+
+SECTION 16 - WEEKLY SALES REPORT
+
+[TABLE]
+Week From / To | __________________________________________
+Prepared By | __________________________________________
+[END TABLE]
+
+
+[TABLE]
+Indicator | Result
+New Leads Added | 
+Clients Contacted | 
+Meetings Scheduled | 
+Meetings Completed | 
+Proposals Sent | 
+Quotations Sent | 
+Deals Approved | 
+Deals Closed Won | 
+Deals Closed Lost | 
+Total Expected Pipeline Value | 
+Total Closed Value | 
+[END TABLE]
+
+Weekly Sales Summary
+__________________________________________________________________________________________
+Main Problems
+__________________________________________________________________________________________
+Next Week Sales Plan
+1. ______________________________________________
+2. ______________________________________________
+3. ______________________________________________
+SECTION 17 - FIRST 30-DAY SALES TARGETS
+
+[TABLE]
+Target Item | Minimum Target
+Target Clients Listed | 100
+Clients Contacted | 80
+Follow-Ups Completed | 120
+Meetings Scheduled | 15
+Meetings Completed | 10
+Proposals Sent | 10
+Quotations Sent | 10
+Deals Closed | 2-5
+Active Projects Started | 1-3
+[END TABLE]
+
+SECTION 18 - TARGET CLIENT LIST
+
+[TABLE]
+No. | Company / Client Name | Industry | Location | Contact Person | Phone | Instagram / Website | Service Opportunity | Priority
+1 |  | Clinic / Restaurant / Real Estate / Retail / Education / Other |  |  |  |  |  | High / Medium / Low
+2 |  |  |  |  |  |  |  | High / Medium / Low
+3 |  |  |  |  |  |  |  | High / Medium / Low
+[END TABLE]
+
+Recommended First Target Industries
+1. Clinics and medical centers.
+2. Restaurants and cafes.
+3. Real estate companies.
+4. Construction companies.
+5. Schools and institutes.
+6. Hotels.
+7. Retail stores.
+8. Beauty clinics and salons.
+9. Gyms and fitness centers.
+10. Corporate offices.
+SECTION 19 - LEAD PRIORITY SYSTEM
+High Priority
+Client has budget, urgent need, decision-maker available, and clear service requirement.
+Medium Priority
+Client has interest but needs more time, more information, or internal review.
+Low Priority
+Client is not ready, no clear budget, or follow-up is required later.
+SECTION 20 - FOLLOW-UP RULES
+1. Every new lead must be contacted within 24 hours.
+2. Every contacted client must receive a next follow-up date.
+3. No lead should remain without status.
+4. Proposal follow-up must be done within 2 working days.
+5. Quotation follow-up must be done within 2 working days.
+6. Important client communication must be recorded in the contact log.
+7. Lost deals must include the reason lost.
+8. Closed deals must be sent to Finance and Operations.
+SECTION 21 - SALES HANDOVER TO OPERATIONS
+When a client approves a proposal or quotation, Sales must hand over the project to Operations.
+Required Handover Information
+1. Client name.
+2. Contact person.
+3. Approved service.
+4. Approved scope.
+5. Approved price.
+6. Payment status.
+7. Deadline.
+8. Client requirements.
+9. Files / materials received.
+10. Special notes.
+SECTION 22 - SALES HANDOVER FORM
+
+[TABLE]
+Handover Code | __________________________________________
+Client Name | __________________________________________
+Project / Service | __________________________________________
+Approved Value | __________________________________________
+Payment Status | __________________________________________
+Handover Date | __________________________________________
+[END TABLE]
+
+Approved Scope
+__________________________________________________________________________________________
+Client Requirements
+__________________________________________________________________________________________
+Files / Materials Received
+Logo
+Brand files
+Content
+Photos
+Videos
+Access information
+Technical documents
+Other: _______________________________
+
+[TABLE]
+Operations Responsible Person | __________________________________________
+Sales Responsible Person | __________________________________________
+Sales Signature | __________________________________________
+Operations Signature | __________________________________________
+Date | __________________________________________
+[END TABLE]
+
+SECTION 23 - SALES DASHBOARD
+
+[TABLE]
+Indicator | Value
+Total Leads | 
+New Leads This Month | 
+Active Opportunities | 
+Proposals Sent | 
+Quotations Sent | 
+Meetings Scheduled | 
+Deals Won | 
+Deals Lost | 
+Total Pipeline Value | 
+Expected Revenue | 
+Closed Revenue | 
+Conversion Rate | 
+[END TABLE]
+
+SECTION 24 - SALES REPORTING ROUTINE
+Daily
+1. Update CRM.
+2. Add new leads.
+3. Record follow-ups.
+4. Update client status.
+5. Record proposals and quotations.
+Weekly
+1. Prepare weekly sales report.
+2. Review sales pipeline.
+3. Review pending follow-ups.
+4. Review proposals and quotations.
+5. Update management on opportunities.
+Monthly
+1. Review total leads.
+2. Review closed deals.
+3. Review lost deals.
+4. Review sales value.
+5. Review sales performance.
+6. Prepare monthly sales report.
+SECTION 25 - RESPONSIBILITIES
+CEO & Founder
+Approving major sales opportunities.
+Reviewing high-value clients.
+Approving strategic pricing or special terms.
+Supporting important client relationships.
+Sales / Client Relations
+Adding leads to CRM.
+Contacting clients.
+Scheduling meetings.
+Sending proposals and quotations.
+Following up on time.
+Updating pipeline status.
+Closing deals professionally.
+Finance
+Reviewing pricing where required.
+Issuing invoices after approval.
+Recording payments.
+Confirming payment status to Sales and Operations.
+Operations
+Receiving approved projects from Sales.
+Reviewing approved scope.
+Assigning project tasks.
+Delivering work according to approved requirements.
+Management
+Reviewing weekly sales reports.
+Solving client or pricing issues.
+Supporting sales growth.
+Monitoring sales performance.
+SECTION 26 - CONTROL RULES
+1. Every lead must be recorded in CRM.
+2. Every lead must have a status.
+3. Every lead must have a responsible person.
+4. Every follow-up must have a date.
+5. Proposals and quotations must have document codes.
+6. Client approvals must be documented.
+7. Closed deals must be handed over to Operations.
+8. Payment status must be coordinated with Finance.
+9. Lost deals must include reason lost.
+10. Weekly sales reports must be prepared.
+11. CRM must be updated daily.
+12. Confidential client information must be protected.
+SECTION 27 - FINAL DECLARATION
+This CRM & Sales Pipeline Tracker is approved as the official sales tracking and client management system of Base Agency.
+It defines lead tracking, sales pipeline stages, client contact logs, meeting tracking, proposal tracking, quotation tracking, closed deal records, lost deal records, daily sales activity, weekly reporting, client target lists, sales handover, dashboard indicators, responsibilities, and sales control rules.
+All sales staff, managers, finance representatives, operations representatives, and authorized persons must use this tracker to manage sales activities, client follow-ups, proposals, quotations, approvals, and closed deals.
+APPROVED BY
+
+[TABLE]
+Omar Abbas Abdulrahman, CEO & Founder | __________________________________________
+Signature | __________________________________________
+Company Stamp | __________________________________________
+Date | __________________________________________
+[END TABLE]
+
